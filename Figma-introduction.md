@@ -157,7 +157,6 @@ En intégrant judicieusement l'utilisation des grilles et des repères dans ton 
     <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/99eb9672-5a16-4331-9aca-7979614502f0" alt="Image montrant comment activer l'option ruler">
 </p>
 
-
 ### Zoomer dans ton Plan de Travail
 
 - Utiliser le Zoom : Afin de zoomer de manière précise sur ton plan de travail, maintiens la touche "Ctrl" et utilise la molette de défilement de ta souris (sur PC) ou "Cmd" + scroll (sur Mac). Cela te permet d'ajuster ta vue pour travailler avec plus de précision lors de la création de tes grilles et repères.
@@ -177,5 +176,58 @@ Ces étapes te permettent de structurer ton espace de travail avec précision, e
 
 Petit tips : N’hésite pas à utiliser un petit carré pour t’aider à faire tes marges
 
-## Les textes
+# Les textes
 _(pzzt 😜, n’hésite pas à pratiquer en même temps)_
+
+## Ajouter un texte
+- **Outil Texte** : Commence par sélectionner l'outil Texte (T) dans la barre d'outils latérale ou simplement en appuyant sur la touche 'T' de ton clavier.
+- 
+ <p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/e0b6e240-4eb1-4241-ab4c-200c09a324bc" alt="Image montrant où se trouve l'option pour écrire du texte">
+</p>
+
+- **Création** : Clique n'importe où sur ta zone de travail pour commencer à saisir du texte. Tu peux également cliquer et glisser pour créer un bloc de texte avec une largeur spécifique.
+
+Comme tu peux le voir sur la partie de droite, des nouvelles options s’offre à toi ! Allons les étudiers
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/01c61566-4c26-40d9-9d2e-665b7635de77" alt="Image montrant les options possible d'un texte">
+</p>
+
+## Ajuster la Taille et la Police 
+
+- **Police** : Avec ton texte sélectionné, utilise le menu déroulant dans la barre d'options en haut pour changer la police. Figma propose une large sélection de polices, ou tu peux ajouter les tiennes.
+- 
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/19119827-691b-4968-8207-b3d05894cbf2" alt="Image montrant comment changer la police d'écriture">
+</p>
+
+- **Taille de la police** : À côté de la sélection de la police, ajuste la taille de ton texte pour qu'elle convienne à ton design.
+  
+## Couleur et Opacité
+
+- **Couleur** : Clique sur le carré de couleur dans la section “FILL” pour choisir la couleur de ton texte. Tu peux utiliser une couleur spécifique en saisissant son code hexadécimal, RGB, HSL, etc.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/546b1a06-b40d-42f1-beaa-2eb819199f41" alt="Image montrant comment changer la couleur du texte sélectionné">
+</p>
+
+  
+- **Opacité** : À côté de la couleur, tu trouveras un curseur pour ajuster l'opacité du texte, te permettant de le rendre plus ou moins transparent.
+  
+## Alignement et Espacement
+
+- **Alignement** : Figma permet d'aligner le texte à gauche, à droite, au centre, ou justifié. Ces options se trouvent dans la barre d'outils inférieur.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/54329620-3974-47f7-b9b1-4624d3f6f853" alt="Image montrant les différentes options d'alignement">
+</p>
+
+  
+- **Espacement** : Tu peux ajuster l'espacement entre les lettres (tracking) et l'espacement entre les lignes (interligne) pour améliorer la lisibilité de ton texte.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/bafa7848-8561-4a34-9115-ad4e7a9dbaa2" alt="Image montrant les options d'écartement de texte">
+</p>
+
+

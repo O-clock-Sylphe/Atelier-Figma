@@ -1,18 +1,26 @@
 # Atelier Maquette Figma
 
-## Sommaire
+## Sommaire du cours
 
-- [Introduction](./Introduction.md)
+### Introduction
 
-  - [Le Webdesign : Kézako 🤔](./Introduction.md#le-webdesign--kézako-🤔)
-  - [UX vs UI 🥊](./Introduction.md#ui-vs-ux-🥊)
-    - [User Experience 🛣️🧪](./Introduction.md#user-experience-🛣️🧪)
-    - [User Interface 🖼️🖌️](./Introduction.md#user-interface-🖼️🖌️)
-  - [Le développeur est-il un designer ? 🤔](./Introduction.md#le-développeur-est-il-un-designer--🤔)
-  - [Figma : L'outil de conception idéal 🛠️](./Introduction.md#figma--loutil-de-conception-idéal-🛠️)
-  - [En savoir plus](./Introduction.md#en-savoir-plus)
+[Lien vers page 🔗](./cours/01-introduction.md)
 
-- [Ressources utiles](./ressources.md)
+- [Le Webdesign : Kézako 🤔](./cours/01-introduction.md#le-webdesign--kézako-🤔)
+- [UX vs UI 🥊](./cours/01-introduction.md#ui-vs-ux-🥊)
+  - [User Experience 🛣️🧪](./cours/01-introduction.md#user-experience-🛣️🧪)
+  - [User Interface 🖼️🖌️](./cours/01-introduction.md#user-interface-🖼️🖌️)
+- [Le développeur est-il un designer ? 🤔](./cours/01-introduction.md#le-développeur-est-il-un-designer--🤔)
+- [Figma : L'outil de conception idéal 🛠️](./cours/01-introduction.md#figma--loutil-de-conception-idéal-🛠️)
+- [En savoir plus](./cours/01-introduction.md#en-savoir-plus)
+
+### Figma
+
+### Exercices
+
+### Ressources utiles
+
+[Lien vers page 🔗](./ressources.md)
 
 ---
 

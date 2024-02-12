@@ -296,3 +296,70 @@ Voici comment procéder : sélectionne d'abord l'outil "Scale" dans ta boîte à
 
 Une fois que tu as fini de redimensionner et d'ajuster ton Auto Layout et ton texte à la taille souhaitée, n'oublie pas de revenir à l'outil "Move" (ou utilise le raccourci 'V') pour continuer ton travail de design. Cette technique te permet de maintenir une harmonie visuelle et une lisibilité optimale de ton contenu à travers différents formats d'affichage, rendant ton design non seulement plus esthétique mais aussi fonctionnel.
 
+### Quelques exemples
+![Component 5](https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/d3968d1c-48d2-4cce-9cae-9e6d07eeba76)
+
+# Les images
+
+## Comment ajouter une image ? 
+
+Il existe deux possibilité : 
+
+**Glisser-déposer (Drag and Drop)** : Tu peux simplement prendre une image depuis un dossier sur ton ordinateur et la glisser directement dans ton projet Figma. C'est la méthode la plus rapide et la plus intuitive. Une fois l'image déposée, elle s'ajoute automatiquement à ta zone de travail, prête à être manipulée.
+
+**Utiliser l'option "Fill"** : Si tu veux intégrer une image comme remplissage d'une forme spécifique (par exemple, un carré ou un cercle), sélectionne d'abord la forme en question. Ensuite, dans le panneau de droite, cherche l'option "Fill" (Remplissage). Clique sur la couleur et entre custom et ta palette de couleur tu verras une icône d'image. Clique dessus, choisi une image et le tour est joué ;). 
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/d130b975-a050-4f13-a8db-33e0c154d323" alt="Image montrant où se trouve l'option pour rajouter une image sur une forme">
+</p>
+
+De cette manière, l'image que tu choisis s'adaptera parfaitement à la forme sélectionnée, ce qui est idéal pour des designs personnalisés. Tu auras également remarqué que tu as des nouvelles options. Je te laisserai jouer avec :wink:
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/a2d5bbc6-9264-4405-886b-a64c6843515c" alt="Image montrant un exemple">
+</p>
+
+# Position de tes calques
+
+Dans Figma, la gestion de la position des calques est essentielle pour organiser visuellement les éléments de ton design. Si tu veux modifier l'ordre des calques, par exemple pour mettre un élément en avant-plan ou en arrière-plan, c'est très simple grâce aux options "Bring to Front" et "Send to Back". Voici comment les utiliser :
+
+- **Pour mettre un élément en avant-plan** : Si tu as un élément que tu souhaites placer au-dessus de tous les autres sur ta planche, fais un clic droit sur cet élément. Dans le menu contextuel qui apparaît, choisis l'option "Bring to Front". Cela va immédiatement amener l'élément sélectionné au premier plan, le rendant ainsi prioritaire sur les autres éléments.
+
+- **Pour envoyer un élément en arrière-plan** : Si, au contraire, tu veux qu'un élément soit placé derrière tous les autres, le processus est tout aussi simple. Fais un clic droit sur l'élément en question, puis dans le menu, sélectionne "Send to Back". L'élément sera alo rs déplacé derrière tous les autres calques de ta composition, le rendant moins prioritaire.
+
+Ces options sont particulièrement utiles pour ajuster rapidement l'ordre des calques sans avoir à naviguer dans le panneau des calques ou à faire de multiples ajustements. Elles te permettent de manipuler la visibilité et l'interaction entre les éléments de ton design de manière intuitive.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/997b4b85-c66d-4410-86bb-9f637c0d4c08" alt="Image montrant où se trouve les options de position de calque">
+</p>
+
+# Style de couleur ou style d'un texte (variables)
+
+Sur Figma, l'utilisation de variables pour les couleurs et le texte est un puissant outil qui rend le design plus flexible et facile à ajuster. Imaginons que tu aies décidé d'utiliser une couleur spécifique, disons rouge, pour plusieurs éléments de ton design. Si, en cours de route, tu décides que le bleu serait finalement plus adapté, pas de panique ! Les variables de couleurs et de texte te permettent de faire ce genre de modifications en toute simplicité. Voici comment procéder :
+
+### Créer une variable de couleur :
+
+- **Accès à la bibliothèque :** Commence par regarder dans la section "Fill" (Remplissage) de l'élément que tu souhaites modifier. Clique sur le signe "+" à côté, puis sur les quatre petits points. Une bibliothèque s'ouvrira.
+
+- **Ajout d'une nouvelle couleur :** Clique sur "plus" pour ajouter une nouvelle couleur. Tu seras invité à nommer cette couleur. Nommons-la, par exemple, "Rouge".
+
+- **Sélection de la couleur :** Maintenant, choisis le rouge comme couleur pour ton élément. Fill -> les 4 petits points -> La couleur choisi
+
+Grâce à cela, la couleur rouge est désormais une variable qui peut être appliquée à plusieurs éléments. Si tu regardes dans la section "Fill" d'un rond, par exemple, tu verras cette option.
+
+- **Modification de la variable :** Si tu cliques ailleurs sur ton plan de travail, tu verras apparaître une section "Local Variables" (Variables locales) dans le menu de droite (vers le haut). Ta couleur rouge s'y trouve, et tu peux alors la modifier ou la supprimer selon tes besoins.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/d288cf20-1d77-428c-85b7-859a40de53f0" alt="Image montrant comment créer une varible">
+</p>
+
+### Créer une variable de texte :
+
+Le processus pour les variables de texte est similaire. 
+
+- **Sélection du style de texte :** Clique simplement sur les quatre petits points dans la section "Text" (Texte) pour choisir un style de texte existant ou en ajouter un nouveau.
+
+L'avantage de ces variables est leur facilité de modification. Un simple changement dans la définition de la variable (couleur ou style de texte) se répercute automatiquement sur **tous les éléments** qui l'utilisent. Cela te permet de maintenir la cohérence de ton design tout en restant flexible, facilitant ainsi les ajustements et les itérations sur ton projet.
+
+
+

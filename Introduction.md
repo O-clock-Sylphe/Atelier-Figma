@@ -54,7 +54,7 @@ Tout à fait, un Webdesigner se doit d'avoir des compétences liées à ces deux
 
 ## Le développeur est-il un designer ? 🤔
 
-Mmm... normalement non !
+Mmm... non !
 
 ![ah !](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VuZjIyNWNhZm13bTFnbTBhNjI1cTJoYWoxd3IwdWV3eGpibXRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtappQfQohgzJMdi/giphy.gif)
 
@@ -78,7 +78,7 @@ Toutefois, certains développeurs front-end aiment à connaître et utiliser les
 
 C'est pas tout ça, mais maintenant on veut faire de la maquette qui claque ! 💎
 
-Et pour cela, il existe un outil freemium (gratuit mais avec des accès limités) permettant de faire du maquettage et du prototypage de qualité : **Figma**
+Et pour cela, il existe un outil freemium (gratuit mais avec des accès limités) permettant de faire du maquettage et du prototypage de qualité : [**Figma**](https://www.figma.com/fr/) ✒️
 
 Cet outil a plein d'avantages :
 
@@ -88,13 +88,20 @@ Cet outil a plein d'avantages :
 - Simple d'utilisation 🧠
 - Disponible depuis un navigateur 💻
 
-## En savoir plus
-
-- [Les 5 étapes clés d'un process UX Design - Article de Marion LAURENT sur openstudio.fr](https://www.openstudio.fr/2023/07/19/les-5-etapes-cles-dun-process-ux-design/)
-- [10 Usability Heuristics For User Interface Design - Jakob NIELSEN sur nngroup.com](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- [Fiche métier UX Designer / UI Designer - clementine.jobs](https://www.clementine.jobs/fiches-metiers/metiers-marketing-publicite-digitale/metier-ux-designer-ui-designer/)
-- [Figma : site officiel](https://www.figma.com/fr/)
+Sans plus attendre, on te laisse aller sur [le site web de Figma](https://www.figma.com/fr/) 🧭, t'y créer un compte et se lancer pour découvrir l'outil.
 
 ---
 
-<p align="left"><a href="./README.md">Revenir à l'accueil</a><span style="float:right;"><a href="#">Page suivante</a></span></p>
+## En savoir plus
+
+- 📹 [Témoignage de Malija, Designer UX - Source : @thisispool (Youtube)](https://www.youtube.com/watch?v=uMwy_2nEYDM)
+- 📹[Témoignage de Stéphanie, Deisgner UI - Source : @thisispool (Youtube)](https://www.youtube.com/watch?v=4ga0JcMFBj4)
+- 📄 [Les 5 étapes clés d'un process UX Design - Source : Marion LAURENT sur openstudio.fr](https://www.openstudio.fr/2023/07/19/les-5-etapes-cles-dun-process-ux-design/)
+- 📄 [10 Usability Heuristics For User Interface Design - Source : Jakob NIELSEN sur nngroup.com](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- 📄 [Fiche métier UX Designer / UI Designer - Source : clementine.jobs](https://www.clementine.jobs/fiches-metiers/metiers-marketing-publicite-digitale/metier-ux-designer-ui-designer/)
+
+---
+
+[Figma - introduction ▶️](Figma-introduction.md)
+
+[Revenir à l'accueil 📍](./README.md)

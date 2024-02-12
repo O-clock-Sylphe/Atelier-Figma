@@ -16,4 +16,4 @@
 
 ---
 
-<span style="float:right;"><a href="./Introduction.md">Introduction</a></span></p>
+[Introduction ▶️](./Introduction.md)

@@ -4,7 +4,7 @@
 
 # Qu'est ce que FIGMA ? 
 
-## Présentation de l'outils
+## Présentation de l'outil
 
 Figma s'est rapidement établi comme l'outil incontournable pour les designers du monde entier 🌍💡, une position si enviée qu'Adobe a tenté de l'acquérir pour la somme colossale de 26 milliards d'euros 💰🔥. Cette plateforme est idéale pour convertir tes idées en designs stupéfiants rapidement 🚀 et faciliter le partage de tes créations avec d'autres, simplifiant ainsi la collaboration 🤝.
 

@@ -4,16 +4,13 @@ _(pzzt 😜, n’hésite pas à pratiquer en même temps)_
 
 ## C'est quoi une frame ?
 
-Les frames (cadres en `fr`) dans Figma jouent un rôle crucial dans la structuration et l'organisation de tes designs. Imagine-les comme des conteneurs ou des boîtes qui peuvent tenir à la fois tes éléments de design et d'autres frames. Elles sont super flexibles et te permettent de créer des interfaces, des pages web, des composants réutilisables, et bien plus encore.
+Une frame ("cadre" en `fr`) dans Figma joue un rôle crucial dans la structuration et l'organisation de tes designs. Chaque maquette, wireframe représentant une page de ton site sera basé sur une frame. 🖼️
 
----
+En somme, c'est une sorte de conteneur qui va comprendre le design d'une page de la dimension de ton choix. 🔲
 
-## Pourquoi utiliser des Frames ?
+Mais là où c'est encore plus génial, c'est que Figma te propose une large liste de frames proposées. Voyons ça d'un peu plus près... 🔍
 
-- **Organisation** : Les frames t'aident à organiser ton design en groupant logiquement des éléments ensemble. Cela facilite la manipulation et le déplacement de sections entières de ton projet sans perturber l'ordre ou la hiérarchie de tes éléments.
-- **Prototypage** : En utilisant des frames pour créer des écrans individuels, tu peux facilement lier ces écrans entre eux dans le mode de prototypage. Cela te permet de simuler des interactions réelles et des flux d'utilisateurs dans ton prototype.
-- **Réactivité** : Les frames te permettent de définir des contraintes et des comportements de redimensionnement pour tes éléments, ce qui est essentiel pour créer des designs adaptatifs et réactifs. Tu peux ainsi voir comment tes designs se comportent sur différents écrans ou dispositifs.
-- **Réutilisation** : Avec les frames, tu peux créer des composants (des éléments de design réutilisables) que tu peux insérer à plusieurs endroits dans ton design. Si tu modifies le composant original, toutes les instances seront mises à jour automatiquement.
+> ⚠️ Attention à ne pas confondre une frame et les formes disponibles plus basiques comme le carré, le rond ou le triangle. Ces dernières sont utilisées pour créer des éléments de notre deisgn qui seront contenues dans une frame. Voyez une frame comme une boîte et non pas comme un élément de design à part entière.
 
 ---
 
@@ -21,44 +18,86 @@ Les frames (cadres en `fr`) dans Figma jouent un rôle crucial dans la structura
 
 ### Création d'une première frame
 
-Tu peux créer une frame en sélectionnant l'outil Frame (raccourci clavier `F`) et en dessinant un rectangle sur le canevas. Tu peux aussi convertir un groupe d'éléments en frame en les sélectionnant et en utilisant le raccourci `Command + G` sur Mac ou `Ctrl + G` sur Windows/Linux.
-
-![barre-d-outils-creation-frame](../assets/04-figma-frames/barre-outils-creation-frame.png)
-
-Après avoir sélectionné l'outil de création de frames dans Figma, tu remarqueras l'apparition, sur la partie droite de ton écran, d'une variété de templates prédéfinis. Ces templates sont disponibles en différentes tailles, adaptées aux supports les plus couramment utilisés aujourd'hui : mobiles, tablettes, et écrans d'ordinateur. Cette fonctionnalité te permet de démarrer rapidement le design de ton projet en choisissant des frames qui correspondent aux standards actuels des dispositifs.
+Rends-toi sur la barre d'outils et sélectionne l'outil Frame (raccourci clavier `F`) :
 
 <p align="center">
-    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/e47f87bf-018d-4ca2-a084-0f15e5508985" alt="Image montrant un des choix possible pour une frame">
+    <img src="../assets/04-figma-frames/barre-outils-creation-frame.png"/>
 </p>
 
-Au sein d'une frame sur Figma, tu découvriras toute une palette d'options une fois que tu l'auras sélectionnée. Tout d'abord, tu obtiendras des informations cruciales concernant la position de la frame dans ta zone de travail 📐✨. En plus de cela, tu recevras des détails précis sur les dimensions de ta frame 📏🖼, te permettant d'ajuster parfaitement sa taille selon tes besoins.
-Pour accéder à ces informations, assure toi d'abord de sélectionner la frame concernée. Une fois fait, tu verras apparaître sur le côté droit de ton écran (dans l'inspecteur) toutes les données relatives à la position (X et Y, indiquant où la frame se situe sur le plan de travail) ainsi qu'aux dimensions (largeur et hauteur) de ta frame. Cela te donne le contrôle total pour positionner et dimensionner ta frame de manière précise, garantissant que chaque élément de ton design s'assemble à la perfection 🌟👌.
+Après avoir sélectionné l'outil de création de frames dans Figma, tu remarqueras l'apparition, sur la partie droite de ton écran 💻➡️, d'une variété de templates prédéfinis. Ces templates sont disponibles en différentes tailles, adaptées aux supports les plus couramment utilisés aujourd'hui : mobiles, tablettes, et écrans d'ordinateur. Idéal pour gagner un temps fou ! 😎
 
 <p align="center">
-    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/2f091696-fc4a-4734-bec4-2ab67b4cf5d8" alt="Image montrant les options possibles d'une frame">
+    <img src="../assets/04-figma-frames/inspecteur-frame-types.png"/>
 </p>
 
-#### Positionnement et options de base d'une Frame
+Tu as donc désormais le choix pour créer une frame :
 
-Positionnement de ta frame dans la zone de travail : ![image 8](https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/3cdcd7f8-6b35-4571-a480-891da21d4e56)
+1. Soit créer une frame main-libre de la taille de ton choix via la souris en dessinant un cadre;
+2. Soit sélectionner une frame prédéfinie via les templates proposées par l'outil.
 
-- **W (Width/Largeur)** : Ce champ te permet d'ajuster la largeur de ta frame. En le modifiant, tu changes combien d'espace la frame occupera horizontalement.
-- **H (Height/Hauteur)** : Similairement, ce champ contrôle la hauteur de ta frame, déterminant l'espace vertical qu'elle prendra.
-- À côté de ces champs, tu trouveras une option très utile symbolisée par un cadenas 🔒. Cette fonction te donne la possibilité de verrouiller les proportions de ta frame. Lorsque tu actives cette option en cliquant dessus, le cadenas change d'apparence pour indiquer qu'il est fermé. Cela signifie que la taille de ta frame est maintenant bloquée : si tu modifies la largeur (W), la hauteur (H) s'ajustera automatiquement pour maintenir les proportions, et vice-versa.
+### Option d'une frame
 
-![image 9](https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/28ac7462-5ecc-44e9-9a70-5acb554928c8)
-
-- La première option te permet de modifier la rotation de ton élément. Cela te donne la liberté de pivoter ton élément à n'importe quel angle, ajoutant ainsi une dynamique visuelle ou alignant l'élément selon tes besoins spécifiques dans le design. En ajustant cette valeur, tu peux faire tourner ton élément autour de son centre, offrant une multitude de possibilités créatives.
-- La deuxième option concerne le border radius, ou rayon de bordure en français. Cette fonctionnalité te permet d'adoucir les angles de ton élément, transformant les coins pointus en courbes douces. En ajustant le border radius, tu peux créer des boutons, des cartes et d'autres composants avec des coins arrondis, rendant ton interface plus douce et plus esthétiquement agréable.
-- Finalement, tu as la possibilité de personnaliser de manière plus spécifique le border radius en modifiant séparément les coins supérieurs, inférieurs, gauche et droite de ton élément. Cette option avancée te permet d'ajuster le rayon de chaque coin indépendamment, te donnant le contrôle total sur l'aspect final de ton élément. Que tu souhaites avoir des coins supérieurs arrondis avec des coins inférieurs droits, ou tout autre combinaison, cette flexibilité te permet d'explorer des designs uniques et de les adapter précisément à tes préférences.
-
-![image 10](https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/4ae895d1-9266-48e9-ad67-2f64a98f48d0)
-
-**Exemples :**
+Choisis une frame disponible dans les templates de ton choix. Dès lors que tu sélectionnes la frame dans laquelle tu souhaites travailler, l'inspecteur (à droite de l'écran) affiche un nouveau menu rempli d'options :
 
 <p align="center">
-    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/6eb9f609-566a-4038-86c5-06c2da4a8fbe" alt="Image montrant la rotation d'une frame et le border radius d'une frame">
+    <img src="../assets/04-figma-frames/inspecteur-frame-options.png"/>
 </p>
+
+Faisons le tour des options afin de manipuler au mieux nos frames. 🕹️
+
+### Positionnement et options de base d'une Frame
+
+Attaquons-nous tout d'abord aux options de positionnement et de dimensions de notre frame :
+
+<p align="center">
+    <img src="../assets/04-figma-frames/inspecteur-frame-opt-dim-pos.png"/>
+</p>
+
+- Tout d'abord, si vous cliquez sur l'option `Frame 🔽`, vous allez pouvoir redimensionner votre cadre de travail selon les templates prédéfinis sur Figma ! Utile, si vous souhaitez changer rapidement sans avoir à tout recommencer.
+- A droite de `Frame 🔽`, vous avez un rectangle **vertical** et un rectangle **horizontal** : il s'agit ici d'une option pour faire une rotation de votre frame. Essayez de cliquez dessus, vous verrez que votre frame se tourne automatiquement en fonction de l'option choisie (de base horizontalement ↔️). C'est très pratique si vous souhaitez partir d'un template d'un écran qui devra être présenté en fonction de l'usage de l'utilisateur comme pour l'écran d'un smartphone 📱.
+
+<p align="center">
+    <img src="../assets/04-figma-frames/frame-rotation.gif" width="400px"/>
+</p>
+- La dernière option de cette ligne se nomme "Resize to fit" ("redimensionner pour s'adapter"). Ce n'est pas une option très utilisée dans le cadre d'une frame qui représenterait une page web mais si vous créez des frames à main levée qui contiennnent différents éléments et dont vous souhaitez enlever les marges intérieures (padding, ça vous dit quelque chose ? 😏), vous pouvez cliquer sur "Resize to fit" pour avoir redimensionnement automatique de votre frame selon ce qu'elle contient.
+
+<p align="center">
+    <img src="../assets/04-figma-frames/resize-to-fit.gif" width="400px"/>
+</p>
+
+#### Positionnement 📍
+
+Comme lorsque vous faites du CSS (j'en vois certains en sueurs 😰), chaque élément a une position selon l'endroit (le parent) dans lequel il est situé. Pour une frame ou une forme créée (carré, rond, ...), vous pouvez indiquez la position initiale de celle-ci.
+
+_Mais si une frame représente une de nos maquettes, par qui est-elle contenue ?_ 🤔
+
+Hé bien, chaque frame est contenue dans notre espace de travail. L'espace de travail est un peu le `<body>` de notre projet dans lequel nous allons mettre toutes nos frames. 👌
+
+Ici, nous pouvons donc choisir la position de notre élément. Pour être plus précis, de base nous allons indiquer où va débuter notre frame et pour cela il faut savoir définir le point d'ancrage ⚓.
+
+De base, elle se situe en haut à gauche et le sera obligatoirement pour nos frames (ce ne sera pas le cas de nos éléments créés dont on pourra choisir le point d'ancre).
+
+Les options pour positionner sont définies par deux axes (retour au collège 😰) :
+
+- L'axe horizontal (X) ↔️
+- L'axe vertical (Y) ↕️
+
+#### Dimensions 📐
+
+Si un objet a une position, il a aussi une dimension 🐘. Et elles vous sont familières ces deux options car vous avez dû les utiliser en CSS :
+
+- `W` pour `width` (largeur) : cette option définit la largeur de notre frame ou notre objet.
+- `H` pour `height` (hauteur) : cette option définit la hauteur de notre frame ou notre objet.
+
+> 📏 L'unité de chacune de ces options est en `px` (pixel).
+
+Vous pouvez très bien changer ces options librement, vous pouvez même faire un calcul dans ces zones. Imaginons que je souhaite que ma frame soit d'une largeur de 4 fois 375px (`4 * 375`), il me suffit d'entrer cette opération dans mon champ et appuyer sur entrée :
+
+<p align="center">
+    <img src="../assets/04-figma-frames/math-input.gif" width="400px"/>
+</p>
+
+> 🧮Addition, soustraction, multiplication, division ! Notre ami Figma vous évitera les prises de tête afin de faire toutes vos opérations à votre place. Quel ami ! 😌
 
 ### Utilisation de Clip Content
 

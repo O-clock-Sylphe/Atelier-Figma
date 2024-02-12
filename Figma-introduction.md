@@ -230,4 +230,69 @@ Comme tu peux le voir sur la partie de droite, des nouvelles options s’offre �
     <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/bafa7848-8561-4a34-9115-ad4e7a9dbaa2" alt="Image montrant les options d'écartement de texte">
 </p>
 
+# L'Auto Layout
+_(pzzt 😜, n’hésite pas à pratiquer en même temps)_
+
+## C'est quoi l'Auto Layout ? 
+
+L'Auto Layout te permet d'ajuster automatiquement la taille de tes cadres et de tes composants en fonction de leur contenu, ce qui est idéal pour le design d'interfaces et la création de systèmes de design flexibles.
+
+L'Auto Layout ajoute une structure flexible à tes composants, permettant à des éléments de s'ajuster automatiquement lorsqu'on modifie leur contenu ou la taille de leur conteneur. Cela simplifie la création de designs adaptables à différentes tailles d'écran et contenus.
+
+## Comment Ajouter l'Auto Layout 
+
+- **Sélection** : Commence par sélectionner un élément ou un groupe d'éléments auxquels tu souhaites appliquer l'Auto Layout.
+
+- **Application** : Utilise le raccourci Shift + A ou clique sur l'icône "+" dans la barre d'outils en haut à droite, à côté de l'option 'Auto Layout', pour les envelopper dans un cadre d'Auto Layout.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/b0fccaa6-19a8-41f7-b5fc-1cf785d7cefe" alt="Image montrant où se situe le boutton de l'Auto Layout">
+</p>
+
+## Ajuster les Propriétés de l'Auto Layout
+
+- **Direction** : Tu peux choisir l'orientation de l'Auto Layout (horizontale ou verticale) pour déterminer comment les éléments s'alignent.
+
+- **Espacement** : Ajuste l'espacement entre les éléments dans le cadre d'Auto Layout pour contrôler la distance entre eux.
+
+- **Alignement** : Définis comment les éléments sont alignés à l'intérieur du cadre, que ce soit au centre, à gauche/droite pour un layout horizontal, ou en haut/bas pour un vertical.
+
+- **Remplissage** : Modifie le remplissage autour des éléments à l'intérieur du cadre pour contrôler l'espace entre les bords du cadre et les éléments.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/2c052f63-65d2-4aaf-a59f-0e3aa15eaa04" alt="Image montrant les différentes options de l'Auto Layout">
+</p>
+
+_PS: Pense Grille ou Flexbox_
+
+## Couleur et Opacité
+
+Comme le texte ou les frames, tu peux donner une couleur de background à ton Auto Layout. Il te suffit d’aller dans la section “FILL” à droite.
+
+## Optimisation du Texte dans Auto Layout
+
+Tu remarqueras parfois que ton texte peut dépasser les limites de ton Auto Layout, notamment après avoir modifié la taille de celui-ci. 
+
+Pour y remédier, une solution simple s'offre à toi. Commence par sélectionner ton texte et porte ton attention sur les options de positionnement disponibles. Là, tu trouveras plusieurs choix qui te permettront d'ajuster le comportement de ton texte par rapport à son conteneur Auto Layout. 
+
+Ces options t'offrent la flexibilité nécessaire pour assurer que ton texte reste bien aligné et visible, quelles que soient les modifications apportées à la taille de ton Auto Layout. En explorant ces réglages, tu seras capable de maintenir une présentation nette et professionnelle de tes designs, garantissant que ton contenu s'adapte harmonieusement à l'espace disponible.  
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/18f3a5dd-9d8a-4408-81eb-da27dac30c9a" alt="Image montrant l'optimisation du texte">
+</p>
+
+_Fixed : suivant la taille que tu as donné à ton élément
+Hug content: suivant la width que prend ton texte 
+Fill container: suivant la taille de ton auto layout_
+
+## Maîtriser le Redimensionnement Responsif avec l'Outil Scale
+
+Tu pourrais te demander comment ajuster la taille de ton Auto Layout de sorte que la taille du texte s'adapte également de manière automatique, une astuce particulièrement utile pour le design responsive. La réponse réside dans l'utilisation de l'outil "Scale". 
+Voici comment procéder : sélectionne d'abord l'outil "Scale" dans ta boîte à outils. Puis, avec cet outil activé, clique sur ton Auto Layout pour le sélectionner. Tu remarqueras alors que de nouvelles options apparaissent sur le panneau de droite, te donnant plus de contrôle sur le redimensionnement de ton élément. 
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/ec5510cd-fc9a-4abe-97b7-411c864c1752" alt="Image montrant l'outils scale">
+</p>
+
+Une fois que tu as fini de redimensionner et d'ajuster ton Auto Layout et ton texte à la taille souhaitée, n'oublie pas de revenir à l'outil "Move" (ou utilise le raccourci 'V') pour continuer ton travail de design. Cette technique te permet de maintenir une harmonie visuelle et une lisibilité optimale de ton contenu à travers différents formats d'affichage, rendant ton design non seulement plus esthétique mais aussi fonctionnel.
 

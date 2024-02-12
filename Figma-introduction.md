@@ -361,5 +361,41 @@ Le processus pour les variables de texte est similaire.
 
 L'avantage de ces variables est leur facilité de modification. Un simple changement dans la définition de la variable (couleur ou style de texte) se répercute automatiquement sur **tous les éléments** qui l'utilisent. Cela te permet de maintenir la cohérence de ton design tout en restant flexible, facilitant ainsi les ajustements et les itérations sur ton projet.
 
+# Les composants
 
+Les composants dans Figma représentent une des fonctionnalités les plus puissantes, te permettant de créer des éléments réutilisables avec une grande efficacité. Que ce soit pour une barre de navigation, un bouton, ou tout autre élément récurrent dans tes designs, les composants t'évitent de répéter inutilement le même travail et assurent une cohérence visuelle à travers ton projet. Voici comment les utiliser à ton avantage :
+
+## Création d'un composant :
+
+1. **Sélection des éléments :** Commence par sélectionner tous les éléments qui constitueront ton composant. Prenons l'exemple d'une barre de navigation contenant "Présentation", "Articles", et "Mon profil".
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/7f2a17a3-0bed-471b-9004-103ae96cfe15" alt="Image montrant un groupe d'éléments">
+</p>
+
+2. **Création du composant :** Après avoir tout sélectionné, fais un clic droit sur la sélection et choisis "Create Component" (Créer un composant). Cette action transforme ta sélection en un composant unique, reconnaissable à sa couleur violette.
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/c5fbff42-75a6-4a1f-95a6-ed2838a81eeb" alt="Image montrant ccomment créer un composant">
+</p>
+
+<p align="center">
+    <img src="https://github.com/O-clock-FS-JS/S04---Atelier-Figma/assets/101322951/f4a6bb41-564d-496d-b551-505ff506eaf5" alt="Image montrant un composant">
+</p>
+
+PS: Tu pourras alors le dupliquer et le réutiliser comme tu le souhaites, cependant n'oublie pas que si tu dois modifier un composant (positionnement, rajout de texte, etc...), tu devras modifier le composant source et non les enfants. Sur les enfants tu pourras modifier les images apparentes ou bien encore modifier le texte mais tu ne pourras pas ajouter d'autres élément à ton composant.
+
+## Avantages et utilisation :
+
+- **Réutilisation facile :** Une fois ton composant créé, il apparaîtra dans la bibliothèque d'assets, accessible depuis le panneau de gauche sous "Assets" (Ressources). Tu peux ensuite glisser et déposer ("drag and drop") ton composant là où tu en as besoin dans ton projet.
+
+- **Mise à jour centralisée :** L'un des plus grands avantages des composants est que si tu modifies le composant original, toutes ces modifications seront automatiquement répercutées sur toutes les instances du composant à travers tes designs. Cela signifie que si tu décides de changer le logo dans ta barre de navigation, tu n'auras pas besoin de le faire manuellement sur chaque frame où il apparaît. Un gain de temps considérable !
+
+### Bonnes pratiques :
+
+- **Nomme tes composants de manière claire :** Cela t'aidera à les retrouver plus facilement dans ta bibliothèque d'assets et à maintenir ton projet organisé.
+  
+- **Utilise des instances :** Pour chaque fois que tu souhaites utiliser un composant dans ton projet, utilise une instance du composant (la version que tu peux glisser depuis les assets). Cela garantit que tout changement apporté au composant original se reflète dans toutes ses instances.
+
+Les composants sont donc un outil essentiel pour tout designer souhaitant travailler de manière plus efficace et organisée. Ils facilitent non seulement la gestion de tes designs en te permettant de faire des mises à jour globales facilement, mais ils encouragent également la cohérence et la réutilisabilité des éléments de design à travers tes projets.
 

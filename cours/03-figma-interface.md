@@ -8,7 +8,9 @@ Tu l'auras remarqué, il y a plusieurs espaces sur Figma, et plein de choses un 
 - **Inspecteur (panneau latéral droit)** 🟩: À droite... Ce panneau te permet d'ajuster tous les détails de ton design, des couleurs à la typographie, en passant par les espacements. En gros, c'est ton centre de contrôle pour peaufiner chaque élément à la perfection 🎚️🌈
 - **Collaboration en temps réel** 🟪 : En haut à droite. Tu pourras rajouter des personnes à ton projet facilement grâce au bouton "share" par exemple. Ou bien voir le rendu avec le bouton "play" 🎥👥.
 
-![figma-interface-outil](../assets/03-figma-interface/figma-interface-outil.jpg)
+<p align="center">
+    <img src="../assets/03-figma-interface/figma-interface-outil.jpg"/>
+</p>
 
 ---
 

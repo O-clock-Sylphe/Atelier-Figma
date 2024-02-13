@@ -2,7 +2,7 @@
 
 ## C'est quoi la différence entre une frame et une forme
 
-Pour créer des éléments de base sur Figma, nous allons différencier deux éléments de base :
+Pour créer notre design sur Figma, nous allons différencier deux éléments de base :
 
 - **Frame** : la frame est un cadre de travail où vous allez déposer différents éléments, formes, ... composant votre maquette. C'est votre feuille de papier ! 📜
 - **Forme** : Les formes sur Figma sont des éléments de base qui vont vous servir à créer les éléments composant votre maquette. Rectangle, rond, triangle... Tout part d'une forme simple que l'on adapte, module à notre envie. 👩‍🎨
@@ -33,15 +33,15 @@ Tu peux aussi réaliser ta propre frame via ta souris en maintenant le clic-gauc
 
 ### Option d'une frame
 
-Super ! 🎉 On vient de créer notre première frame. Avant d'aller plus loin, on va analyser les options présentes sur le panneau de droite de l'outil.
+Analysons les options présentes sur le panneau de droite de l'outil.
 
 <p align="center">
     <img src="../assets/05-figma-frames/inspecteur-frame-options.png"/>
 </p>
 
-> 💡 Chque forme/frame que tu sélectionne sur Figma a son panneau de configuration. Il s'adapte en fonction du type d'objet que tu manipules. Le panneau d'une frame n'est pas le même que celui d'un objet, d'une police de caractères, ...
+> 💡 Chaque forme/frame que tu sélectionnes sur Figma a son panneau de configuration. Il s'adapte en fonction du type d'objet que tu manipules. Le panneau d'une frame n'est pas le même que celui d'une forme, d'une police de caractères, ...
 
-### Options générales
+### Positionnement et dimensions
 
 Attaquons-nous tout d'abord aux options de positionnement et de dimensions de notre frame :
 
@@ -65,11 +65,11 @@ Attaquons-nous tout d'abord aux options de positionnement et de dimensions de no
 
 #### Positionnement 📍
 
-Comme lorsque vous faites du CSS (j'en vois certains en sueurs 😰), chaque élément a une position selon l'endroit (le parent) dans lequel il est situé. Pour une frame ou une forme créée (carré, rond, ...), vous pouvez indiquez la position initiale de celle-ci.
+Comme lorsque vous faites du CSS (j'en vois certains en sueurs 😰), chaque élément a une position selon l'endroit (le parent) dans lequel il est situé. Pour une frame ou une forme créée (carré, rond, ...), vous pouvez indiquer la position initiale de celle-ci.
 
 _Mais si une frame représente une de nos maquettes, par qui est-elle contenue ?_ 🤔
 
-Hé bien, chaque frame est contenue dans notre espace de travail. L'espace de travail est un peu le `<>` de notre projet dans lequel nous allons mettre toutes nos frames. 👌
+Hé bien, chaque frame est contenue dans notre espace de travail. L'espace de travail est un peu le `<body>` de notre projet dans lequel nous allons mettre toutes nos frames. 👌
 
 Ici, nous pouvons donc choisir la position de notre élément. Pour être plus précis, de base nous allons indiquer où va débuter notre frame et pour cela il faut savoir définir le point d'ancrage ⚓.
 
@@ -97,11 +97,11 @@ Vous pouvez très bien changer ces options librement, vous pouvez même faire un
 
 > 🧮Addition, soustraction, multiplication, division ! Figma vous évitera les prises de tête afin de faire toutes vos opérations à votre place. Quel ami ! 😌
 
-Il y a plein d'autres options disponiles mais qui n'ont pas réellement d'intérêt premier lorsque l'on parle d'une frame. Toutefois, nous allons en parler via les formes ! 😃
+Il y a plein d'autres options disponibles mais qui n'ont pas réellement d'intérêt premier lorsque l'on parle d'une frame. Toutefois, nous allons en parler via les formes ! 😃
 
 ---
 
-### À ton tour
+## À ton tour 🖌️
 
 Pour notre première frame, nous souhaitons réaliser utiliser la résolution d'un écran standard. Sélectionne l'outil `Frame` puis cherche le template `Desktop`.
 

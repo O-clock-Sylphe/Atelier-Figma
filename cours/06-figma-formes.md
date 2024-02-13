@@ -1,1 +1,179 @@
 # Formes
+
+## Créer une forme
+
+Maintenant qu'on a une frame qui peut contenir notre maquette, attaquons-nous au contenu. Démarrons par la création d'une forme.
+
+Dans la barre d'outils, sélectionnez `Rectangle` ou appuyez sur `R` :
+
+<p align="center">
+    <img src="../assets/06-figma-formes/barre-outils-rectangle.png"/>
+</p>
+
+> 💡Les formes disponibles sont celles qui sontles plus basiques. Elles permettent, si on se projette, de dessiner tout ce que l'on souhaite. Quand on y pense, Batman n'est qu'une superposition de carrés, ronds et polygones. 🦇
+
+Désormais, il vous suffit de cliquer dans votre frame pour y déposer un rectangle. ⏹️ Si vous ne faites qu'un clic, vous obtiendrez un carré de `100px`. Si vous laissez le bouton gauche de votre souris appuyé, vous pouvez créer un rectangle de la taille de votre choix.
+
+Si l'on regarde notre panneau latéral gauche, on voit que notre rectangle a été ajouté dans notre frame :
+
+<p align="center">
+    <img src="../assets/06-figma-formes/arborescence-rectangle.gif"/>
+</p>
+
+Le rectangle appartient désormais à notre frame `Homepage` créée à l'étape précédente. 🎉 Il a lui aussi la possibilité d'être positionné et dimensionné.
+
+> ⚠️ Attention ! Notre rectangle est contenu dans notre frame `Homepage`, si on change sa position, le calcul se fera en fonction de l'intérieur de notre frame et non pas de la zone de travail. 📦
+
+Dans l'étape précédente, nous avions fait le choix d'omettre différentes options en parlant des frames. Levons le voile sur de nouvelles possibilités offertes pour nous aider à aller au bout des choses.
+
+## Proportions
+
+Nous avons déjà parlé de la dimension d'un objet; désormais j'aimerais vous indiquer une option très pratique vous évitant de contraindre votre objet à garder sa proportion.
+
+Faisons une expérience 🥼🧪 :
+
+Sélectionnez le coin en bas à droite de votre rectangle et faites en sorte qu'il soit un carré de `300px`
+
+<p align="center">
+    <img src="../assets/06-figma-formes/fail-carre-main-libre.gif"/>
+</p>
+
+C'est dur hein ? 😅 Bon, maintenant, imaginez que vous ayez à faire cela pour chacune des formes qui va composer votre maquette...
+
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXcwYWV5aWM1YjFkOXlmZXFscjlwdXY3ZGJ6dXM3eW43dDA5Y214MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDFpdL1UxdVZRBN2V4/giphy.gif"/>
+</p>
+
+Mais heureusement, vous avez déjà les connaissances pour éviter cela ! On peut utiliser les options dans le panneau de droite pour ajouter manuellement les dimensions voulues.
+
+<p align="center">
+    <img src="../assets/06-figma-formes/resize-square.gif"/>
+</p>
+
+Youpi ! En deux entrées, notre carré est à la taille souhaitée. 🎉 Mais imaginons que vous souhaitiez conserver la proportion de ce carré sans savoir la taille qu'il fera. 🥲 Vous voyez un symbole de chaînon 🔗 à la droite de `H` ? Cliquez dessus et changer la hauteur `H` de votre carré à `450px`
+
+<p align="center">
+    <img src="../assets/06-figma-formes/square-proportion.gif"/>
+</p>
+
+Vous avez vu ? Non seulement on a redimensionné notre carré mais il a gardé ses propotions. C'est idéal si on veut agrandir ou réduire un élément tout en conservant sa propotion initale. 😋
+
+> 💡 Vous pouvez aussi laisser appuyer la touche `Maj` (Win)/`Cmd` (Mac) et sélectionnez le coin de votre forme pour en changer la taille sans que la proportion ne soit affectée. 😉
+
+## Apparence
+
+Jusqu'ici, on sait faire des formes mais on aimerait bien qu'elles soient plus pimpantes, non pas que le gris clair soit dérangeant mais c'est un peu monotone ! 🎨👩‍🎨
+
+Pour cela, je vous invite à aller dans la section `Fill` du panneau d'options (à droite de votre écran ➡️).
+
+<p align="center">
+    <img src="../assets/06-figma-formes/square-fill.png"/>
+</p>
+
+Lorsque vous cliquez sur la case représentant la couleur de la forme, vous allez voir apparaître un nouveau panneau permettant de customiser la couleur de votre forme.
+
+> 💡Les frames ont aussi cette option, très utile si vous voulez appliquer une couleur, un dégradé à votre page.
+
+<p align="center">
+    <img src="../assets/06-figma-formes/fill-panel.png"/>
+</p>
+
+Tout en haut, nous avons sciemment entouré 4 options pour remplir votre forme :
+
+1. **Couleur unie** : on choisit une seule et même couleur pour toute notre forme.
+2. **Dégradé** : On crée un dégradé afin de faire un effet de couleurs mélangées.
+3. **Image** : On ajoute une image qui va être incrustée dans notre forme.
+4. **Video** : Même chose que pour l'image mais avec une vidéo.
+
+Car une forme peut très bien être d'une couleur ou avoir une image. 🤷‍♀️ Seule votre créativité en décidera. 😌
+
+## Bordures et effets
+
+### Bordures
+
+On peut aussi définir une bordure via l'option `Stroke`. Pour cela, il suffit de cliquer sur le petit `+` afin d'ajouter une bordure à notre forme.
+
+<p align="center">
+    <img src="../assets/06-figma-formes/square-stroke.png"/>
+</p>
+
+1. **Couleur** : la couleur de votre bordure.
+2. **Opacité** : Opacité de la bordure.
+3. **Visibilité** : l'oeil vous permet d'afficher/masquer votre bordure.
+4. **Supprimer** : le symbole `-` indique que vous pouvez supprimer la bordure.
+5. **Positionnement** : L'option 5 indique l'endroit où votre bordure va s'ajouter via la forme. Vous pouvez avoir une bordure qui sera plutôt à l'intérieure ou à l'extérieure de la forme.
+6. **Épaisseur** : L'épaisseur de votre bordure.
+7. **Bordure par bord** : Vous ne voulez que des bordures sur les côtés de votre forme ? C'est possible via cette option. Vous avez juste à sélectionner les bordures de votre choix.
+8. **Options supplémentaires** : Si vous voulez choisir le motif de votre bordure et bien d'autres choses pour pousser encore plus.
+
+### Effets
+
+<p align="center">
+    <img src="../assets/06-figma-formes/square-effect.png"/>
+</p>
+
+Le panneau `Effects` vous permet d'ajouter des effets à votre forme comme une ombre portée, un effet de flou. Les options présentées ressemblent beaucoup à ce que vous avez en CSS.
+
+Faisons la comparaison entre les options présentes sur la capture juste au dessus et son pendant en CSS :
+
+```css
+.shape {
+  box-shadow: 10px 10px 13px 0 rgba(0, 0, 0, 50);
+}
+```
+
+Hé oui ! Figma utilise les options similaires au CSS afin de faciliter le portage. Fini de faire les choses au doigt mouillé ☝️ grâce à cet outil, vous pourrez reprendre exactement les mêmes propriétés dans votre code. 🪄
+
+---
+
+## Groupe de formes
+
+Une autre option très importante à maîtriser dans n'importe quel logiciel de design, graphisme est le groupement d'objets.
+
+Jusqu'ici, on a vu que si l'on crée une forme dans notre Frame, celle-ci est automatiquement ajoutée dans l'arborescence que l'on peut consulter sur la colonne de gauche de notre outil. 🪜
+
+Mais il est aussi possible de créer des groupes de formes afin d'indiquer que celles-ci sont parentes ou lier entre elles. Pour créer un groupe, rien de plus simple :
+
+- Sélectionner les formes nécessaires dans l'arborescence située dans le panneau de gauche puis faites un clic-droit et sélectionner l'option `Group Selection`
+
+- Pour dégrouper une sélection d'objets, sélectionnez le groupe dans l'arborescence, faites un clic-droit et sélectionner l'option `Ungroup`.
+
+Voici les raccourcis clavier correspondant ⌨️ :
+| Commande | Windows | Mac |
+| --------- | -------------- | ------------- |
+| Grouper | Ctrl + G | Cmd + G |
+| Dégrouper | Ctrl + Maj + G | Cmd + Maj + G |
+
+<p align="center">
+    <img src="../assets/06-figma-formes/group-ungroup.gif"/>
+</p>
+
+---
+
+## À ton tour 🖌️
+
+Nous allons créer deux nouvelles formes rectangulaires qui seront le background de la première section de notre page d'accueil.
+
+> ⚠️ La frame `Homepage` ne doit rien contenir. Si vous avez pratiquer en créant des formes, c'est bien ! Mais supprimez-les afin de pouvoir poser les premières briques de notre maquette. 🙏
+
+Voici quelques éléments à prendre en compte pour les réaliser :
+
+- Les deux rectangles prennent toute la hauteur de base de notre frame `Desktop` soit `1024px`
+- Chaque rectangle a une largeur égale à la moitié de la largeur de la frame soit `1440px / 2`
+- Le rectangle de gauche sera de couleur blanche dont voici le code hexadécimal : `#FFFFFF`
+- Le rectangle de droite sera rempli par une image disponible dans le dossier `exercice/images/header.jpg`
+- Créer un groupe avec les deux rectangles réunis. Nommez-le `Hero`
+- Renommer le rectangle de gauche `Background-left` et le rectangle de droite `Background-right`
+
+### Résultat attendu
+
+<p align="center">
+    <img src="../assets/06-figma-formes/result.png"/>
+</p>
+---
+
+[◀️ Figma - Frames](./05-figma-frames.md)
+
+[Figma - ▶️]()
+
+[Retour à l'accueil 📍](../README.md)

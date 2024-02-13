@@ -34,7 +34,9 @@ Dans le monde du Webdesign, on distingue deux catégories permettant le traiteme
 
 Pour réussir cela, il va passer par un processus basé sur 5 étapes essentielles :
 
-![Illustration du processus UX](../assets/01-introduction/Processus%20UX%20-%20Timeline.jpg)
+<p align="center">
+    <img src="../assets/01-introduction/Processus%20UX%20-%20Timeline.jpg" width="800px"/>
+</p>
 
 > Chacune de ces étapes est itérative, ce qui signifie que l'on peut revenir à des étapes antérieures en fonction des retours et des résultats des tests. Cela permet d'affiner le projet continuellement. 👍
 
@@ -56,7 +58,9 @@ Tout à fait, un Webdesigner se doit d'avoir des compétences liées à ces deux
 
 Mmm... non !
 
-![ah !](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VuZjIyNWNhZm13bTFnbTBhNjI1cTJoYWoxd3IwdWV3eGpibXRwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThtappQfQohgzJMdi/giphy.gif)
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZrdHZ2M3puNGJuOGp6dm03YTVpZWQ5c2lpYmlxMHczcnFtN2locCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XymaJlgorUL8vOfF88/giphy-downsized.gif"/>
+</p>
 
 En fait, dans une équipe d'un projet, le designer occupe un poste stratégique en lien avec le chef de projet et les développeurs.
 
@@ -88,7 +92,7 @@ Cet outil a plein d'avantages :
 - Simple d'utilisation 🧠
 - Disponible depuis un navigateur 💻
 
-Sans plus attendre, on te laisse aller sur [le site web de Figma](https://www.figma.com/fr/) 🧭, t'y créer un compte et se lancer pour découvrir l'outil.
+**Sans plus attendre, on te laisse aller sur [le site web de Figma](https://www.figma.com/fr/) 🧭, t'y créer un compte et se lancer pour découvrir l'outil.**
 
 ---
 
@@ -102,6 +106,6 @@ Sans plus attendre, on te laisse aller sur [le site web de Figma](https://www.fi
 
 ---
 
-[Figma - introduction ▶️](Figma-introduction.md)
+[Figma - introduction ▶️](./02-figma-intro.md)
 
 [Revenir à l'accueil 📍](./README.md)

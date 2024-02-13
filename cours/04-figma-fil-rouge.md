@@ -56,6 +56,6 @@ En vrai, si vous scrutez bien, **on ne fait que s'inspirer des uns des autres**;
 
 [◀️ Figma - Interface](./03-figma-interface.md)
 
-[Figma - les frames ▶️](./05-figma-frames.md)
+[Figma - Frames ▶️](./05-figma-frames.md)
 
 [Retour à l'accueil 📍](../README.md)

@@ -20,15 +20,17 @@ Mais là où c'est encore plus génial, c'est que Figma te propose une large lis
 
 Rends-toi sur la barre d'outils et sélectionne l'outil Frame (raccourci clavier `F`) :
 
-<p align="center">
+<figure align="center">
     <img src="../assets/04-figma-frames/barre-outils-creation-frame.png"/>
-</p>
+    <figcaption>La barre d'outils</figcaption>
+</figure>
 
 Après avoir sélectionné l'outil de création de frames dans Figma, tu remarqueras l'apparition, sur la partie droite de ton écran 💻➡️, d'une variété de templates prédéfinis. Ces templates sont disponibles en différentes tailles, adaptées aux supports les plus couramment utilisés aujourd'hui : mobiles, tablettes, et écrans d'ordinateur. Idéal pour gagner un temps fou ! 😎
 
-<p align="center">
+<figure align="center">
     <img src="../assets/04-figma-frames/inspecteur-frame-types.png"/>
-</p>
+    <figcaption>Liste des templates de frames</figcaption>
+</figure>
 
 Tu as donc désormais le choix pour créer une frame :
 
@@ -39,9 +41,10 @@ Tu as donc désormais le choix pour créer une frame :
 
 Choisis une frame disponible dans les templates de ton choix. Dès lors que tu sélectionnes la frame dans laquelle tu souhaites travailler, l'inspecteur (à droite de l'écran) affiche un nouveau menu rempli d'options :
 
-<p align="center">
+<figure align="center">
     <img src="../assets/04-figma-frames/inspecteur-frame-options.png"/>
-</p>
+    <figcaption>Menu d'options d'une frame</figcaption>
+</figure>
 
 Faisons le tour des options afin de manipuler au mieux nos frames. 🕹️
 
@@ -49,9 +52,10 @@ Faisons le tour des options afin de manipuler au mieux nos frames. 🕹️
 
 Attaquons-nous tout d'abord aux options de positionnement et de dimensions de notre frame :
 
-<p align="center">
+<figure align="center">
     <img src="../assets/04-figma-frames/inspecteur-frame-opt-dim-pos.png"/>
-</p>
+    <figcaption>Options de poistionnement et de dimensions</figcaption>
+</figure>
 
 - Tout d'abord, si vous cliquez sur l'option `Frame 🔽`, vous allez pouvoir redimensionner votre cadre de travail selon les templates prédéfinis sur Figma ! Utile, si vous souhaitez changer rapidement sans avoir à tout recommencer.
 - A droite de `Frame 🔽`, vous avez un rectangle **vertical** et un rectangle **horizontal** : il s'agit ici d'une option pour faire une rotation de votre frame. Essayez de cliquez dessus, vous verrez que votre frame se tourne automatiquement en fonction de l'option choisie (de base horizontalement ↔️). C'est très pratique si vous souhaitez partir d'un template d'un écran qui devra être présenté en fonction de l'usage de l'utilisateur comme pour l'écran d'un smartphone 📱.

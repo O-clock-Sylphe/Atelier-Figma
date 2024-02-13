@@ -92,7 +92,7 @@ Cet outil a plein d'avantages :
 - Simple d'utilisation 🧠
 - Disponible depuis un navigateur 💻
 
-**Sans plus attendre, on te laisse aller sur [le site web de Figma](https://www.figma.com/fr/) 🧭, t'y créer un compte et se lancer pour découvrir l'outil.**
+**Sans plus attendre, si tu n'as pas encore de compte sur Figma, on te laisse aller sur [le site web](https://www.figma.com/fr/) 🧭 t'en créer un et te lancer pour découvrir l'outil grâce à [notre cours](./02-figma-intro.md) 🧑‍🎓.**
 
 ---
 
@@ -108,4 +108,4 @@ Cet outil a plein d'avantages :
 
 [Figma - introduction ▶️](./02-figma-intro.md)
 
-[Revenir à l'accueil 📍](./README.md)
+[Revenir à l'accueil 📍](../README.md)

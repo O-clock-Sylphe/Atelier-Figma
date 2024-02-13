@@ -50,7 +50,7 @@ En vrai, si vous scrutez bien, **on ne fait que s'inspirer des uns des autres**;
 
 **Vous avez beaucoup de sites, de ressources existantes pour vous inspirer** et aller secouer l'artiste qui sommeille en vous. Il existe dans ce cours une liste non-exhaustive d'outils et de références qui vous aideront à réaliser des maquettes de sites très sympas. [Allez y jeter un oeil](../ressources.md) 👀
 
-N'hésitez pas non plus à analyser les sites que vous consulter, à comprendre leur fonctionnement, ce qui fait leur force et leur faiblesse. Ce travail en tâche de fond vous sera bénéfique au long terme. #CultureGénérale 😎
+**N'hésitez pas non plus à analyser les sites que vous consulter**, à comprendre leur fonctionnement, ce qui fait leur force et leur faiblesse. Ce travail en tâche de fond vous sera bénéfique au long terme. #CultureGénérale 😎
 
 ---
 

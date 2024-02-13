@@ -16,6 +16,6 @@ Tu l'auras remarqué, il y a plusieurs espaces sur Figma, et plein de choses un 
 
 [◀️ Figma - introduction](./02-figma-intro.md)
 
-[Figma - les frames ▶️](./04-figma-frames.md)
+[Figma - Projet fil rouge ▶️](./04-figma-fil-rouge.md)
 
 [Retour à l'accueil 📍](../README.md)

@@ -154,7 +154,7 @@ Voici les raccourcis clavier correspondant ⌨️ :
 
 Nous allons créer deux nouvelles formes rectangulaires qui seront le background de la première section de notre page d'accueil.
 
-> ⚠️ La frame `Homepage` ne doit rien contenir. Si vous avez pratiquer en créant des formes, c'est bien ! Mais supprimez-les afin de pouvoir poser les premières briques de notre maquette. 🙏
+> ⚠️ La frame `Homepage` ne doit rien contenir. Si tu as pratiqué en créant des formes, c'est bien ! Mais supprime-les afin de pouvoir poser les premières briques de notre maquette. 🙏
 
 Voici quelques éléments à prendre en compte pour les réaliser :
 

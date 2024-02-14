@@ -4,7 +4,7 @@
 
 Figma est un **outil de maquettage et prototypage collaboratif** permettant de travailler sur un projet web côté design. Créé en 2012 et rendu publique en 2016, ce logiciel s'est imposé comme l'**un des plus utilisés au monde dans son domaine** pour sa simplicité, sa gratuité (freemium), son aspect collaboratif et une communauté qui enrichit d'ajouts utiles comme des templates et des plugins.
 
-Aujourd'hui leader d'un marché composé de plusieurs concurrents, Figma a même failli être racheté par Adobe (PhotoShop, Illustrator, ...) qui a dû renoncer au dernier moment (voir l'[article](#ressources-utiles) en bas de page).
+Aujourd'hui leader d'un marché composé de plusieurs concurrents, Figma a même failli être racheté par Adobe (PhotoShop, Illustrator, ...) qui a dû renoncer au dernier moment (voir la [section "Ressources Utiles"](#ressources-utiles) en bas de page).
 
 ## Accès à l'outil
 

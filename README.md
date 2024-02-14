@@ -2,9 +2,9 @@
 
 Bienvenue dans cet atelier sur l'outil Figma ! 👩‍🎨
 
-Le thème du jour que l'on te propose est de découvrir la création d'une maquette graphique d'un site web en utilisant l'outil le plus utilisé pour ce type de réalisation : Figma ! 😎
+Le thème du jour que l'on te propose va te permettre de découvrir la création d'une maquette graphique d'un site web en utilisant l'outil le plus utilisé pour ce type de réalisation : **Figma** ! 😎
 
-_Mais je n'ai pas de facilité avec le dessin, le graphisme_ 😖
+_Mais je n'ai pas de facilité en dessin, ni en graphisme_ 😖
 
 Pas de panique ! Ici, on parle d'un sujet en mode découverte. 🌈🐻‍❄️ On débutera par te présenter le métier de Webdesigner puis on te proposera d'apprendre à utiliser les bases de l'outil Figma avec la création d'une maquette graphique. Promis, c'est plus simple que ça en a l'air ! 🙏
 
@@ -23,4 +23,4 @@ Pas de panique ! Ici, on parle d'un sujet en mode découverte. 🌈🐻‍❄️
 
 ---
 
-[Introduction ▶️](./cours/01-webdesign.md)
+[Le Webdesign ▶️](./cours/01-webdesign.md)

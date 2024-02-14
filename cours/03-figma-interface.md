@@ -1,4 +1,4 @@
-# Figma - interface
+# Interface de travail
 
 Tu l'auras remarqué, il y a plusieurs espaces sur Figma, et plein de choses un peu partout 👀. Faisons le tour du propriétaire 🚶:
 

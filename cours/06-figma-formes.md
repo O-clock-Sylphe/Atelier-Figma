@@ -170,6 +170,7 @@ Voici quelques éléments à prendre en compte pour les réaliser :
 <p align="center">
     <img src="../assets/06-figma-formes/result.png"/>
 </p>
+
 ---
 
 [◀️ Figma - Frames](./05-figma-frames.md)

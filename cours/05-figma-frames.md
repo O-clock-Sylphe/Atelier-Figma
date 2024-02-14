@@ -1,4 +1,4 @@
-# Frames
+# Les frames
 
 ## C'est quoi la différence entre une frame et une forme
 

@@ -4,8 +4,8 @@
 
 Pour créer notre design sur Figma, nous allons différencier deux éléments de base :
 
-- **Frame** : la frame est un cadre de travail où vous allez déposer différents éléments, formes, ... composant votre maquette. C'est votre feuille de papier ! 📜
-- **Forme** : Les formes sur Figma sont des éléments de base qui vont vous servir à créer les éléments composant votre maquette. Rectangle, rond, triangle... Tout part d'une forme simple que l'on adapte, module à notre envie. 👩‍🎨
+- **Frame** : la frame est un cadre de travail où tu vas déposer différents éléments, formes, ... composant ta maquette. C'est ta feuille de papier ! 📜
+- **Forme** : Les formes sur Figma sont des éléments de base qui vont te servir à créer les éléments composant ta maquette. Rectangle, rond, triangle... Tout part d'une forme simple que l'on adapte, module à notre envie. 👩‍🎨
 
 ---
 
@@ -49,15 +49,15 @@ Attaquons-nous tout d'abord aux options de positionnement et de dimensions de no
     <img src="../assets/05-figma-frames/inspecteur-frame-opt-dim-pos.png"/>
 </p>
 
-- Tout d'abord, si vous cliquez sur l'option `Frame 🔽`, vous allez pouvoir redimensionner votre cadre de travail selon les templates prédéfinis sur Figma ! Utile, si vous souhaitez changer rapidement sans avoir à tout recommencer.
+- Tout d'abord, si tu cliques sur l'option `Frame 🔽`, tu vas pouvoir redimensionner ton cadre de travail selon les templates prédéfinis sur Figma ! Utile si tu souhaites changer rapidement sans avoir à tout recommencer.
 
-- A droite de `Frame 🔽`, vous avez un rectangle **vertical** et un rectangle **horizontal** : il s'agit ici d'une option pour faire une rotation de votre frame. Essayez de cliquez dessus, vous verrez que votre frame se tourne automatiquement en fonction de l'option choisie (de base horizontalement ↔️). C'est très pratique si vous souhaitez partir d'un template d'un écran qui devra être présenté en fonction de l'usage de l'utilisateur comme pour l'écran d'un smartphone 📱.
+- A droite de `Frame 🔽`, tu as un rectangle **vertical** et un rectangle **horizontal** : il s'agit ici d'une option pour faire une rotation de ta frame. Essayes de cliquez dessus, tu verras que ta frame se tourne automatiquement en fonction de l'option choisie. Voici un exemple concret : tu vas devoir peut-être penser à créer ton site sur mobile; or, un utilisateur peut très bien utiliser ton site en ayant son écran posé de manière verticale ↕️ ou horizontale ↔️. Ton site n'aura donc pas la même largeur d'espace et le contenu devra sûrement s'adapter à cela. Au moment de créer ta maquette, tu pourras donc avoir deux versions de ton site en fonction de la rotation de l'écran. 🧠🔄️
 
 <p align="center">
     <img src="../assets/05-figma-frames/frame-rotation.gif" width="400px"/>
 </p>
 
-- La dernière option de cette ligne se nomme **"Resize to fit"** ("redimensionner pour s'adapter"). Ce n'est pas une option très utilisée dans le cadre d'une frame qui représenterait une page web mais si vous créez des frames à main levée qui contiennnent différents éléments et dont vous souhaitez enlever les marges intérieures (le padding, ça vous dit quelque chose ? 😏), vous pouvez cliquer sur "Resize to fit" pour avoir redimensionnement automatique de votre frame selon ce qu'elle contient. Démonstration :
+- La dernière option de cette ligne se nomme **"Resize to fit"** ("redimensionner pour s'adapter"). Ce n'est pas une option très utilisée dans le cadre d'une frame qui représenterait une page web mais si tu crées des frames à main levée qui contiennnent différents éléments et dont tu souhaites enlever les marges intérieures (_le padding, ça te dit quelque chose ? 😏_), tu peux cliquer sur "Resize to fit" pour avoir un redimensionnement automatique de ta frame selon ce qu'elle contient. Démonstration :
 
 <p align="center">
     <img src="../assets/05-figma-frames/resize-to-fit.gif" width="400px"/>
@@ -65,15 +65,15 @@ Attaquons-nous tout d'abord aux options de positionnement et de dimensions de no
 
 #### Positionnement 📍
 
-Comme lorsque vous faites du CSS (j'en vois certains en sueurs 😰), chaque élément a une position selon l'endroit (le parent) dans lequel il est situé. Pour une frame ou une forme créée (carré, rond, ...), vous pouvez indiquer la position initiale de celle-ci.
+Comme lorsque tu fais du **CSS**, chaque élément a une position selon l'endroit (le parent) dans lequel il est situé. Pour une frame ou une forme créée (carré, rond, ...), tu peux indiquer la position initiale de celle-ci.
 
 _Mais si une frame représente une de nos maquettes, par qui est-elle contenue ?_ 🤔
 
 Hé bien, chaque frame est contenue dans notre espace de travail. L'espace de travail est un peu le `<body>` de notre projet dans lequel nous allons mettre toutes nos frames. 👌
 
-Ici, nous pouvons donc choisir la position de notre élément. Pour être plus précis, de base nous allons indiquer où va débuter notre frame et pour cela il faut savoir définir le point d'ancrage ⚓.
+Ici, nous pouvons donc choisir la position de notre élément. On choisit donc un point d'ancrage afin de pouvoir la situer dans notre zone de travail ⚓. Imagines que le travail de maquettage est à faire pour chacune des pages d'un site, dans des versions spécifiques aux écrans sur lequel le site est consultable. Permettre à nos frames d'être organisé sera la moindre des choses pour s'y retrouver. 😉
 
-De base, elle se situe en haut à gauche et le sera obligatoirement pour nos frames (ce ne sera pas le cas de nos éléments créés dont on pourra choisir le point d'ancre).
+De base, le point d'ancrage se situe en haut à gauche de la frame obligatoirement (ce ne sera pas le cas de nos éléments créés dont on pourra choisir le point d'ancre; par exemple une forme dans une frame se placera dans l'espace de la frame et non pas au niveau de la zone de travail).
 
 Les options pour positionner sont définies par deux axes (retour au collège 😰) :
 
@@ -82,20 +82,20 @@ Les options pour positionner sont définies par deux axes (retour au collège �
 
 #### Dimensions 📐
 
-Si un objet a une position, il a aussi une dimension 🐘. Et elles vous sont familières ces deux options car vous avez dû les utiliser en CSS :
+Si un objet a une position, il a aussi une dimension 🐘. Et elles te sont familières ces deux options car tu as dû les utiliser en CSS :
 
 - `W` pour `width` (largeur) : cette option définit la largeur de notre frame ou notre objet.
 - `H` pour `height` (hauteur) : cette option définit la hauteur de notre frame ou notre objet.
 
 > 📏 L'unité de chacune de ces options est en `px` (pixel).
 
-Vous pouvez très bien changer ces options librement, vous pouvez même faire un calcul dans ces zones. Imaginons que je souhaite que ma frame soit d'une largeur de 4 fois 375px (`4 * 375`), il me suffit d'entrer cette opération dans mon champ et appuyer sur entrée :
+Tu peux très bien changer ces options librement, tu peux même faire un calcul dans ces zones ➕➖✖️➗. Imaginons que je souhaite que ma frame soit d'une largeur de 4 fois 375px (`4 * 375`), il me suffit d'entrer cette opération dans mon champ et appuyer sur entrée :
 
 <p align="center">
     <img src="../assets/05-figma-frames/math-input.gif" width="400px"/>
 </p>
 
-> 🧮Addition, soustraction, multiplication, division ! Figma vous évitera les prises de tête afin de faire toutes vos opérations à votre place. Quel ami ! 😌
+> 🧮Addition, soustraction, multiplication, division ! Figma t'éviteras les prises de tête afin de faire toutes les opérations matéhmatiques à ta place dans les champs comprenant un nombre. Quel ami ! 😌
 
 Il y a plein d'autres options disponibles mais qui n'ont pas réellement d'intérêt premier lorsque l'on parle d'une frame. Toutefois, nous allons en parler via les formes ! 😃
 
@@ -103,11 +103,13 @@ Il y a plein d'autres options disponibles mais qui n'ont pas réellement d'inté
 
 ## À ton tour 🖌️
 
-Pour notre première frame, nous souhaitons réaliser utiliser la résolution d'un écran standard. Sélectionne l'outil `Frame` puis cherche le template `Desktop`.
+Notre première frame sera celle de l'écran d'accueil au format ordinateur standard :
 
-Puis renomme cette frame en faisant un clic-droit sur le nom `Desktop -1` dans le panneau latéral gauche > `Rename` ou en double cliquant sur le nom de la frame situé en haut à gauche de celle-ci. Appelles-la `Homepage`.
+- Sélectionne l'outil `Frame` puis cherche le template `Desktop`.
 
-Enfin, repositionne-la dans notre espace de travail en vérifiant que les coordonnées X et Y soient sur `0`.
+- Puis renomme cette frame en faisant un clic-droit sur le nom `Desktop-1` dans le panneau latéral gauche > `Rename` ou en double cliquant sur le nom de la frame situé en haut à gauche de celle-ci. Appelles-la `Homepage`.
+
+Enfin, repositionne-la dans la zone de travail en vérifiant que les coordonnées X et Y soient sur `0`.
 
 ---
 

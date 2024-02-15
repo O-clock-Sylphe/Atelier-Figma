@@ -175,6 +175,6 @@ Voici quelques éléments à prendre en compte pour les réaliser :
 
 [◀️ Figma - Frames](./05-figma-frames.md)
 
-[Figma - ▶️]()
+[Figma - Les variables ▶️](./07-figma-variables.md)
 
 [Retour à l'accueil 📍](../README.md)

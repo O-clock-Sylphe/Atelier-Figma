@@ -16,6 +16,8 @@ Pas de panique ! Ici, on parle d'un sujet en mode découverte. 🌈🐻‍❄️
 - [Projet fil rouge](./cours/04-figma-fil-rouge.md)
 - [Les frames](./cours/05-figma-frames.md)
 - [Les formes](./cours/06-figma-formes.md)
+- [Les variables](./cours/07-figma-variables.md)
+- [Les styles locaux](./cours/08-figma-styles.md)
 
 ## Ressources utiles
 

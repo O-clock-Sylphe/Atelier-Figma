@@ -19,7 +19,7 @@ La première chose qu'il faut faire pour travailler sur Figma est tout simplemen
 Pour créer un nouveau fichier, il te suffit de cliquer sur le bouton "Design file", de choisir l'équipe dans laquelle sera enregistré ce fichier (Ici, celle avec ton nom => ex : `MyName / Team Project`) et te voilà prêt à attaquer ton projet. 💪
 
 <p align="center">
-    <img src="../assets/02-figma-intro/figma-interface-accueil.jpg"/>
+    <img src="../assets/02-figma-intro/figma-interface-accueil.webp"/>
 </p>
 
 ---

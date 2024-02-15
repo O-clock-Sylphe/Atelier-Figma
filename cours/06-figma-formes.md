@@ -168,7 +168,7 @@ Voici quelques éléments à prendre en compte pour les réaliser :
 ### Résultat attendu
 
 <p align="center">
-    <img src="../assets/06-figma-formes/result.png"/>
+    <img src="../assets/06-figma-formes/result.webp"/>
 </p>
 
 ---

@@ -13,7 +13,7 @@ Tu l'auras remarqué, il y a plusieurs espaces sur Figma, et plein de choses un 
 - **Collaboration en temps réel** 🟪 : En haut à droite. Tu pourras rajouter des personnes à ton projet facilement grâce au bouton "share" par exemple. Ou bien voir le rendu avec le bouton "play" 🎥👥.
 
 <p align="center">
-    <img src="../assets/03-figma-interface/figma-interface-outil.jpg"/>
+    <img src="../assets/03-figma-interface/figma-interface-outil.webp"/>
 </p>
 
 ---

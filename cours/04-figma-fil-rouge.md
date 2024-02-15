@@ -7,13 +7,13 @@ Dès à présent, et ce jusqu'à la fin de ce cours interactif, nous allons appr
 ### Page d'accueil
 
 <p align="center">
-    <img src="../assets/04-figma-fil-rouge/Homepage.jpg"/>
+    <img src="../assets/04-figma-fil-rouge/Homepage.webp"/>
 </p>
 
 ### Page catalogue
 
 <p align="center">
-    <img src="../assets/04-figma-fil-rouge/Catalog.jpg"/>
+    <img src="../assets/04-figma-fil-rouge/Catalog.webp"/>
 </p>
 
 ## Analyse

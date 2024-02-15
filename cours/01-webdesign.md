@@ -35,7 +35,7 @@ Dans le monde du Webdesign, on distingue deux catégories permettant le traiteme
 Pour réussir cela, il va passer par un processus basé sur 5 étapes essentielles :
 
 <p align="center">
-    <img src="../assets/01-introduction/Processus%20UX%20-%20Timeline.jpg" width="800px"/>
+    <img src="../assets/01-introduction/Processus UX - Timeline.webp" width="800px"/>
 </p>
 
 > Chacune de ces étapes est itérative, ce qui signifie que l'on peut revenir à des étapes antérieures en fonction des retours et des résultats des tests. Cela permet d'affiner le projet continuellement. 👍

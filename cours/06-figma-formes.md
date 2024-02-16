@@ -141,8 +141,8 @@ Mais il est aussi possible de créer des groupes de formes afin d'indiquer que c
 Voici les raccourcis clavier correspondant ⌨️ :
 | Commande | Windows | Mac |
 | --------- | -------------- | ------------- |
-| Grouper | Ctrl + G | Cmd + G |
-| Dégrouper | Ctrl + Maj + G | Cmd + Maj + G |
+| Grouper | Ctrl + G | ⌘ + G |
+| Dégrouper | Ctrl + Maj + G | ⇧ + ⌘ + G |
 
 <p align="center">
     <img src="../assets/06-figma-formes/group-ungroup.gif"/>

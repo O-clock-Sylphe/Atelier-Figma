@@ -18,6 +18,7 @@ Pas de panique ! Ici, on parle d'un sujet en mode découverte. 🌈🐻‍❄️
 - [Les formes](./cours/06-figma-formes.md)
 - [Les variables](./cours/07-figma-variables.md)
 - [Les styles locaux](./cours/08-figma-styles.md)
+- [Les composants](./cours/09-figma-composants.md)
 
 ## Ressources utiles
 

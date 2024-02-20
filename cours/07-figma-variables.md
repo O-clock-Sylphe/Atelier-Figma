@@ -7,17 +7,19 @@ Désormais, on a plein de pistes pour continuer le maquettage de notre applicati
 Voici un découpage de notre maquette par **"section"** :
 
 <p align="center">
-    <img src="../assets/07-figma-variables/Homepage-analyse.webp"/>
+    <img src="../assets/07-figma-variables/Homepage-analyse.png"/>
 </p>
 
 Le but ici est de faire comme lorsque tu vas créer ta page en HTML, on décide des éléments qui vont former les grands ensembles de notre page, son squelette 🩻. Ce travail est obligatoire afin de gagner du temps et de la visibilité.
 
 Le découpage réalisé a fait sortir 5 grands ensembles :
 
-- **Header** : l'en-tête de notre page comprenant une barre de navigation.
-- **Hero** : C'est un élément que l'on retrouve sur beaucoup de landing pages (la page d'accueil du site). On peut considérer que le Hero fait parti du Header en globalité. Ici, nous avons surtout recentré le contenu de ce Hero comprenant un titre, une description et un CTA (on va revenir là dessus). Le Hero a un **but de conversion** : c'est-à-dire que nos utilisateurs soient sédutis à leur arrivée sur notre page afin d'aller plus loin.
+- **Hero header** : l'en-tête de notre page comprenant une barre de navigation. C'est un élément que l'on retrouve sur beaucoup de landing pages (la page d'accueil du site). On peut considérer que le Hero fait parti du Header en globalité. Ici, nous avons surtout recentré le contenu de ce Hero comprenant un titre, une description et un CTA (on va revenir là dessus). Le Hero a un **but de conversion** : c'est-à-dire que nos utilisateurs soient séduits à leur arrivée sur notre page afin d'aller plus loin.
+
 - **Section** : Ensuite, on aperçoit une section composée d'un titre et de cards représentant des voyages vendu par notre entreprise.
-- **CTA** : CTA ? Ça veut dire : "Call To Action", un appel à ce que notre utilisateur convertisse sa visite sur notre site à un achat, à aller plus loin dans le service proposé par le site. Ici, on en place un nouveau afin d'amener notre utilisateur à contacter l'entreprise pour parler d'un possible voyage. Attention à ne pas trop abuser des CTA, cela pourrait être opressant pour l'utilisateur.
+
+- **CTA** : CTA ? Ça veut dire : "Call To Action", un appel à ce que notre utilisateur convertisse sa visite sur notre site à un achat, à aller plus loin dans le service proposé par le site. Ici, on en place un nouveau afin d'amener notre utilisateur à contacter l'entreprise pour parler d'un possible voyage. Attention à ne pas trop abuser des CTA, cela pourrait être oppressant pour l'utilisateur.
+
 - **Footer** : Un pied de page comprenant les coordonnées de l'entreprise et quelques liens vers des pages utiles comme des articles pertinents, les liens utiles vers le support et le SAV ainsi que les pages de mentions légales, Conditions Générales d'Utilisation et de Vente.
 
 Tous ces grands ensembles comprennent du texte et des formes. Surtout, on voit que certains de ces textes utilisent les mêmes polices de caractères, la même taille, la même couleur. Idem pour certaines formes. 👀
@@ -28,7 +30,7 @@ Tous ces grands ensembles comprennent du texte et des formes. Surtout, on voit q
 
 Tu le sais désormais, l'un des principes même du métier de développeur est d'éviter de se répéter 🔄️❌. Cela passe notamment par le fait de déclarer des variables à un endroit précis, centralisé que l'on pourra réutiliser au besoin.
 
-En découpant ton code de manière structurée et agile, tu peyx le faire évoluer et le maintenir bien plus facilement.
+En découpant ton code de manière structurée et agile, tu peux le faire évoluer et le maintenir bien plus facilement.
 
 En Webdesign, c'est pareil. 😉 Et dans plein d'autres domaines.
 

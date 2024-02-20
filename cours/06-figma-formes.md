@@ -114,7 +114,7 @@ On peut aussi définir une bordure via l'option `Stroke`. Pour cela, il suffit d
 
 Le panneau `Effects` te permet d'ajouter des effets à ta forme comme une ombre portée, un effet de flou. Les options présentées ressemblent beaucoup à ce que tu as en CSS.
 
-Faisons la comparaison entre les options présentes sur la capture juste au dessus et son pendant en CSS :
+Faisons la comparaison entre les options présentes sur la capture juste au dessus et l'équivalent en CSS :
 
 ```css
 .shape {

@@ -51,13 +51,13 @@ Attaquons-nous tout d'abord aux options de positionnement et de dimensions de no
 
 - Tout d'abord, si tu cliques sur l'option `Frame 🔽`, tu vas pouvoir redimensionner ton cadre de travail selon les templates prédéfinis sur Figma ! Utile si tu souhaites changer rapidement sans avoir à tout recommencer.
 
-- A droite de `Frame 🔽`, tu as un rectangle **vertical** et un rectangle **horizontal** : il s'agit ici d'une option pour faire une rotation de ta frame. Essayes de cliquez dessus, tu verras que ta frame se tourne automatiquement en fonction de l'option choisie. Voici un exemple concret : tu vas devoir peut-être penser à créer ton site sur mobile; or, un utilisateur peut très bien utiliser ton site en ayant son écran posé de manière verticale ↕️ ou horizontale ↔️. Ton site n'aura donc pas la même largeur d'espace et le contenu devra sûrement s'adapter à cela. Au moment de créer ta maquette, tu pourras donc avoir deux versions de ton site en fonction de la rotation de l'écran. 🧠🔄️
+- A droite de `Frame 🔽`, tu as un rectangle **vertical** et un rectangle **horizontal** : il s'agit ici d'une option pour faire une rotation de ta frame. Essaye de cliquer dessus, tu verras que ta frame se tourne automatiquement en fonction de l'option choisie. Voici un exemple concret : tu vas devoir peut-être penser à créer ton site sur mobile; or, un utilisateur peut très bien utiliser ton site en ayant son écran posé de manière verticale ↕️ ou horizontale ↔️. Ton site n'aura donc pas la même largeur d'espace et le contenu devra sûrement s'adapter à cela. Au moment de créer ta maquette, tu pourras donc avoir deux versions de ton site en fonction de la rotation de l'écran. 🧠🔄️
 
 <p align="center">
     <img src="../assets/05-figma-frames/frame-rotation.gif" width="400px"/>
 </p>
 
-- La dernière option de cette ligne se nomme **"Resize to fit"** ("redimensionner pour s'adapter"). Ce n'est pas une option très utilisée dans le cadre d'une frame qui représenterait une page web mais si tu crées des frames à main levée qui contiennnent différents éléments et dont tu souhaites enlever les marges intérieures (_le padding, ça te dit quelque chose ? 😏_), tu peux cliquer sur "Resize to fit" pour avoir un redimensionnement automatique de ta frame selon ce qu'elle contient. Démonstration :
+- La dernière option de cette ligne se nomme **"Resize to fit"** ("redimensionner pour s'adapter"). Si tu crées des frames à main levée qui contiennent différents éléments et dont tu souhaites enlever les marges intérieures (_le padding, ça te dit quelque chose ? 😏_), tu peux cliquer sur "Resize to fit" pour avoir un redimensionnement automatique de ta frame selon ce qu'elle contient. Démonstration :
 
 <p align="center">
     <img src="../assets/05-figma-frames/resize-to-fit.gif" width="400px"/>
@@ -71,9 +71,9 @@ _Mais si une frame représente une de nos maquettes, par qui est-elle contenue ?
 
 Hé bien, chaque frame est contenue dans notre espace de travail. L'espace de travail est un peu le `<body>` de notre projet dans lequel nous allons mettre toutes nos frames. 👌
 
-Ici, nous pouvons donc choisir la position de notre élément. On choisit donc un point d'ancrage afin de pouvoir la situer dans notre zone de travail ⚓. Imagines que le travail de maquettage est à faire pour chacune des pages d'un site, dans des versions spécifiques aux écrans sur lequel le site est consultable. Permettre à nos frames d'être organisé sera la moindre des choses pour s'y retrouver. 😉
+Ici, nous pouvons donc choisir la position de notre élément. On choisit donc un point d'ancrage afin de pouvoir la situer dans notre zone de travail ⚓. Imagine que le travail de maquettage est à faire pour chacune des pages d'un site, dans des versions spécifiques aux écrans sur lequel le site est consultable. Permettre à nos frames d'être organisé sera la moindre des choses pour s'y retrouver. 😉
 
-De base, le point d'ancrage se situe en haut à gauche de la frame obligatoirement (ce ne sera pas le cas de nos éléments créés dont on pourra choisir le point d'ancre; par exemple une forme dans une frame se placera dans l'espace de la frame et non pas au niveau de la zone de travail).
+De base, **le point d'ancrage se situe en haut à gauche de la frame** obligatoirement (ce ne sera pas le cas de nos éléments créés dont on pourra choisir le point d'ancre; par exemple une forme dans une frame se placera dans l'espace de la frame et non pas au niveau de la zone de travail).
 
 Les options pour positionner sont définies par deux axes (retour au collège 😰) :
 

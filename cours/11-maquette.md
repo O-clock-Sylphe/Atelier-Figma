@@ -8,8 +8,6 @@ Prends le temps de réfléchir posément avant d'attaquer, essaye de voir ce qui
 
 Mais surtout amuses-toi bien à réaliser cela ! 🤗😃
 
-Dès que tu penses avoir fini ce travail de maquettage, ouvre ce fichier sur Figma pour comparé ton travail à celui de notre designer. 👍
-
 ## Assets & styles
 
 Pour rappel :
@@ -25,6 +23,30 @@ Pour rappel :
 - Les polices de caractères utilisées sont :
   - Titres : `Bebas Neue`
   - Texte : `Roboto`
+
+Pour rappel, voici les principales polices de caractères à utiliser :
+
+| Référence             | Police utilisée | Taille | Graisse | Couleur   |
+| --------------------- | --------------- | ------ | ------- | --------- |
+| Titre principal       | Bebas Neue      | 64px   | X       | `#000000` |
+| Titre de section      | Bebas Neue      | 48px   | X       | `#000000` |
+| Titre de sous-section | Bebas Neue      | 24px   | X       | `#000000` |
+| Paragraphes           | Roboto          | 16px   | Regular | `5E5E59`  |
+
+Organise-toi comme bon te semble, essaie de trouver le moyen d'être le plus efficace possible sans te répéter. 👍
+
+## Correction
+
+Une correction de cette maquette est disponible dans le dossier `assets/11-maquette` nommée : `atelier-figma-correction.md`. Pour pouvoir l'utiliser :
+
+- Clique sur le symbole `Figma` en haut à gauche de l'outil ;
+- Choisis l'option `Back to files` ;
+- Puis clique sur le bouton `Import` en haut à droite de l'écran de fichiers ;
+- Choisis `atelier-figma-correction.md` afin de pouvoir l'utiliser localement.
+
+<p align="center">
+    <img src="../assets/11-maquette/import-figma-file.gif"/>
+</p>
 
 ---
 

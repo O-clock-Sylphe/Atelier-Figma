@@ -4,16 +4,8 @@
 
 Dès à présent, et ce jusqu'à la fin de ce cours interactif, nous allons apprendre en faisant (ou faire en apprenant ). 🥳🎉👯‍♂️ Et sans plus tarder, voici ce que l'on va créer :
 
-### Page d'accueil
-
 <p align="center">
     <img src="../assets/04-figma-fil-rouge/Homepage.webp"/>
-</p>
-
-### Page catalogue
-
-<p align="center">
-    <img src="../assets/04-figma-fil-rouge/Catalog.webp"/>
 </p>
 
 ## Analyse
@@ -30,7 +22,7 @@ Notre designer a réalisé plusieurs étapes avant de faire sa maquette, en voic
 
 ### S'inspirer pour créer
 
-Il est très important de garder en tête que personne n'est touchée par la grâce de la créativité en inventant quelque chose de nouveau de par sa simple volonté, boulversant les codes établis. ⚡🧠
+Il est très important de garder en tête que personne n'est touchée par la grâce de la créativité en inventant quelque chose de nouveau de par sa simple volonté, bouleversant les codes établis. ⚡🧠
 
 En vrai, si tu analyses avec attention, **on ne fait que s'inspirer des uns des autres**; c'est normal et c'est valable pour tout :
 

@@ -137,6 +137,6 @@ Et c'est là tout l'intérêt du composant et d'une instance. 🤓
 
 [◀️ Figma - Les styles](./08-figma-styles.md)
 
-[Figma - ▶️]()
+[Figma - Auto layout ▶️](./10-figma-auto-layout.md)
 
 [Retour à l'accueil 📍](../README.md)

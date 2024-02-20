@@ -19,6 +19,8 @@ Pas de panique ! Ici, on parle d'un sujet en mode découverte. 🌈🐻‍❄️
 - [Les variables](./cours/07-figma-variables.md)
 - [Les styles locaux](./cours/08-figma-styles.md)
 - [Les composants](./cours/09-figma-composants.md)
+- [Auto layout](./cours/10-figma-auto-layout.md)
+- [Maquette](./cours/11-maquette.md)
 
 ## Ressources utiles
 

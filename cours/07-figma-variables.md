@@ -107,7 +107,7 @@ Trois des formes sont liées à notre variable, cela permet de changer instantan
 
 > 💡 Dans les variables de Figma, tu peux stocker un nombre, du texte et même des booléens.
 
-[Voici une vidéo de @DesignWithArash](https://youtu.be/fn4rP20U2UM?si=cJdfLh7i6d2DuyeB), un Youtuber spécialisé sur Figma qui t'expliqueras encore énormément de choses avec les variables (dark mode, traduction d'une maquette dans différentes langues, ...). C'est très intéressant mais cela demande aussi à avoir parfois un accès "pro" (payant💲) à Figma.
+[Voici une vidéo de @DesignWithArash](https://youtu.be/fn4rP20U2UM?si=cJdfLh7i6d2DuyeB), un Youtubeur spécialisé sur Figma qui t'expliqueras encore énormément de choses avec les variables (dark mode, traduction d'une maquette dans différentes langues, ...). C'est très intéressant mais cela demande aussi à avoir parfois un accès "pro" (payant💲) à Figma.
 
 ---
 

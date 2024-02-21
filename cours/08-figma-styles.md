@@ -1,8 +1,8 @@
 # Les styles locaux
 
-On vient de voir que l'on peut enregistrer en mémoire des informations dans des variables que l'on peut réutiliser plus tard. Ce procédé est très pratique pour éviter de se répéter.
+On vient de voir que l'on peut enregistrer en mémoire des informations dans des variables que l'on peut réutiliser plus tard. Ce procédé est très pratique pour éviter de se répéter. 👌
 
-Dans le même esprit, il existe un autre système pour enregistrer des paramètres en mémoire : **les styles locaux**.
+Dans le même esprit, il existe un autre système pour enregistrer des paramètres en mémoire : **les styles locaux**. 📝
 
 ## Analyse : polices de caractères utilisées
 
@@ -14,9 +14,9 @@ Si l'on regarde bien, notre page contient 3 types de titres :
     <img src="../assets/08-figma-styles/Homepage-titles.webp"/>
 </p>
 
-- **Titre principal** : entouré en rouge, c'est le `<h1>` en HTML, le titre principal de la page sur laquelle on se situe.
-- **Titre de section** : entouré en vert, ce sont les `<h2>` en HTML, les titres de section de notre page.
-- **Titre de sous-section** : enfin, nous avons les titres de sous-section ou titres d'articles, les `<h3>` en HTML; ils sont ici entourés en orange.
+- **Titre principal** : entouré en rouge 🔴, c'est le `<h1>` en HTML, le titre principal de la page sur laquelle on se situe.
+- **Titre de section** : entouré en vert 🟢, ce sont les `<h2>` en HTML, les titres de section de notre page.
+- **Titre de sous-section** : enfin, nous avons les titres de sous-section ou titres d'articles, les `<h3>` en HTML; ils sont ici entourés en orange 🟠.
 
 Comme pour les variables, on voit que seul le contenu (le texte) change **mais pas leur style**. Et grâce aux `Local Styles`, nous allons pouvoir créer un style à appliquer sur nos éléments de textes pour éviter de nous répéter.
 
@@ -31,7 +31,7 @@ Avant de créer les styles de nos différents styles de police, faisons un table
 
 > 💡Le type `Paragraphes` représente le style utilisé sur le reste des textes, les blocs d'articles par exemple.
 
-Sachant cela, nous allons déjà déclarer une nouvelle variable pour la couleur utilisée.
+Sachant cela, nous allons déjà déclarer une nouvelle variable pour la couleur utilisée. 🤗
 
 ### À ton tour 🖌️
 
@@ -39,7 +39,7 @@ Sachant cela, nous allons déjà déclarer une nouvelle variable pour la couleur
 
 - Fais la même chose avec la couleur utilisée pour les Paragraphes, ajoute une variable locale avec le code `#5E5E59` que tu nommeras `neutral-regular`.
 
-Tu devrais avoir ces trois couleurs dans ton tableau de variables locales ⬇️ (`primary` a été déclaré dans le chapitre précédent) :
+Tu devrais avoir ces trois couleurs dans ton tableau de variables locales ⬇️ (`primary` a été déclaré dans le chapitre précédent, tu peux l'ajouter si ce n'est pas fait 😉) :
 
 <p align="center">
     <img src="../assets/08-figma-styles/fonts-colors-variables.png"/>
@@ -61,7 +61,7 @@ Désormais, nous allons déclarer un style prédéfini afin d'enregistrer le tit
     <img src="../assets/08-figma-styles/create-new-style.png"/>
 </p>
 
-> ✒️ Il existe énormément d'options pour définir une police de caractères. Les caractères d'imprimerie sont modulables à l'infini. Nous resterons simples et ne parlerons pas de l'infinité de possibilités qu'il existe lorsque l'on parle de police de caractères. Toutefois, si cela vous intéresse, [Google Fonts - Knowledge](https://fonts.google.com/knowledge) contient des articles afin de plonger dans ce monde intéressant.
+> ✒️ Il existe énormément d'options pour définir une police de caractères. Les caractères d'imprimerie sont modulables à l'infini. Nous resterons simples et ne parlerons pas de l'infinité de possibilités qu'il existe lorsque l'on parle de police de caractères. Toutefois, si cela vous intéresse, [Google Fonts - Knowledge](https://fonts.google.com/knowledge) contient des articles afin de plonger dans ce monde intéressant. 🤿
 
 Ca y est, nous avons désormais accès à notre premier style prédéfini. 🥳 Il apparaît dans la colonne `Local Styles` du panneau d'options de notre zone de travail.
 
@@ -81,29 +81,31 @@ Un nouveau panneau d'options apparaît avec l'ajout d'un texte. Il y a des élé
     <img src="../assets/08-figma-styles/text-options-panel.png"/>
 </p>
 
-Sur la capture d'écran, nous t'avons enouré d'un cercle rouge **un carré composé de 4 points en haut à droite**. En cliquant dessus, tu vas voir apparaître les styles définis présents. Il ne te reste qu'à choisir le style `main-title` et l'appliquer au texte que l'on vient de créer.
+Sur la capture d'écran, **nous t'avons entouré d'un cercle rouge un carré composé de 4 points en haut à droite** 🔴. En cliquant dessus, tu vas voir apparaître les styles définis présents. Il ne te reste qu'à choisir le style `main-title` et l'appliquer au texte que l'on vient de créer.
 
 <p align="center">
     <img src="../assets/08-figma-styles/apply-style-on-text.gif"/>
 </p>
 
-Pour compléter, nous allons lui appliquer la couleur `neutral-dark`. Dans le panneau d'options, repère la section `Fill` puis clique sur le carré composé de 4 points, puis choisis la couleur `neutral-dark`.
+Pour compléter, nous allons lui appliquer la couleur `neutral-dark`. Dans le panneau d'options, **repère la section `Fill` puis clique sur le carré composé de 4 points**, puis choisis la couleur `neutral-dark`.
 
 <p align="center">
     <img src="../assets/08-figma-styles/apply-color-on-title.gif"/>
 </p>
 
-Pour parfaire le tout, nous allons (si besoin) modifier la dimension du bloc à main levée avec notre souris. Sélectionne le côté droit du bloc de texte et réduis-le pour que le texte soit sur deux lignes, comme sur la maquette. Si besoin, aligne le texte à gauche via l'option à cet effet dans le panneau d'options de texte.
+Pour parfaire le tout, nous allons (si besoin) modifier la dimension du bloc à main levée avec notre souris. Sélectionne le côté droit du bloc de texte et réduis-le pour que le texte soit sur deux lignes, comme sur la maquette.
+
+_Si besoin, aligne le texte à gauche via l'option à cet effet dans le panneau d'options de texte._
 
 <p align="center">
     <img src="../assets/08-figma-styles/reduce-title-block.gif"/>
 </p>
 
-Ca y est ! Notre titre principal a un style et une couleur prédéfinie. 🥳
+**Ca y est ! Notre titre principal a un style et une couleur prédéfinie. 🥳**
 
 Si, dans un avenir plus ou moins proche, on souhaite changer les paramètres ou propriétés d'un élément de ce style, nous n'aurons pas besoin de repasser dessus directement.
 
-On s'enlève un temps fou, on est modulables, évolutifs, réactifs. On est géniaux en somme ! 🤩
+On s'enlève un temps fou, on est **modulables, évolutifs, réactifs**. On est géniaux en somme ! 🤩
 
 Et tu as remarqué ? Cela nous fait aussi une belle classe CSS que notre développeur pourra utiliser. Traduisons les paramètres pour définir notre titre principal en CSS :
 
@@ -122,6 +124,6 @@ Magique ! 🪄
 
 [◀️ Figma - Les Variables](./07-figma-variables.md)
 
-[Figma - Composants ▶️]()
+[Figma - Composants ▶️](./09-figma-composants.md)
 
 [Retour à l'accueil 📍](../README.md)

@@ -2,15 +2,15 @@
 
 ## Atomic design
 
-Jusqu'ici, on a vu comment enregistrer une variable et des paramètres prédéfinis afin de faciliter notre travail en amont. Mais on peut encore aller plus loin 🚀.
+Jusqu'ici, on a vu comment enregistrer une variable et des styles prédéfinis afin de faciliter notre travail en amont. Mais on peut encore aller plus loin 🚀.
 
-Généralement, lorsque l'on pense à maquetter une page, on imagine réfléchir page par page, cela semble tout à fait logique et on va faire en allant, un peu de manière empirique.
+Généralement, lorsque l'on pense à maquetter une page, on imagine réfléchir page par page; cela semble tout à fait logique et on va faire en allant, un peu de manière empirique.
 
-Cette manière de faire était dans les habitudes de tous jusqu'à ce qu'en 2015, un designer système, apporte le concept d'**Atomic Design**. Celui-ci va révolutionner la manière de créer un design system, entendez par là un groupement d'éléments comme des boutons, champs de formulaires, ... du plus petit au plus grand. 🤏🙌
+Bien que logique au premier abord, un designer système du nom de Brad Frost apporte le concept d'**Atomic Design** en 2015. Celui-ci va révolutionner la manière de créer un design system, entendez par là un groupement d'éléments comme des boutons, champs de formulaires, ... du plus petit au plus grand. 🤏🙌
 
 _Hein ? Je ... Quoi ?_ 🫠
 
-En fait, Brad Frost propose que plutôt que de créer une page avec des éléments qui vont évoluer au fur et à mesure au besoin de créer les éléments avant puis de construire nos pages avec. On partira des éléments récurrents les plus petits et réutilisables pour en construire de plus grand.
+En fait, Brad Frost propose de **créer des éléments d'UI (User Interface) indépendants** que l'on réutilisera dans toutes nos pages. Cela permettra de se focaliser sur chaque élément comme une entité propre, adaptative selon notre besoin.
 
 **Voici un exemple de réflexion en Atomic Design ⚛️** :
 
@@ -79,9 +79,9 @@ _Trop bien ! Figma m'a aidé à trouver la position idéale, comme si c'était a
 
 > Tu l'as déjà peut-être remarqué en bougeant des formes sur une frame aussi ! 🧲 Figma propose des repères aimantés afin de disposer nos éléments. Et attention, il nous donne plein d'autres indications lorsque l'on déplace un élément, notamment un repère pour obtenir une marge équivalente entre différents éléments, un alignement selon des éléments déjà positionnés. Cette fonctionnalité est très intuitive et puissante. 💪
 
-Revenons-en à notre composant. On n'a pas totalement fini avec lui, nous allons en faire un composant.
+Revenons-en à notre bouton. On n'a pas totalement fini avec lui, nous allons en faire un composant. 🪄
 
-- Comme pour un groupe, tu vas sélectionner les deux éléments (le texte et le rectangle) puis tu vas appuyer sur l'icône `Create component` (un losange composé de quatre carrés)situé dans la barre d'outils, au centre.
+- Comme pour un groupe, tu vas sélectionner les deux éléments (le texte et le rectangle) puis tu vas appuyer sur l'icône `Create component` (un losange composé de quatre carrés) situé dans la barre d'outils, au centre.
 
 <p align="center">
     <img src="../assets/09-figma-composants/create-component.gif"/>
@@ -110,15 +110,9 @@ Tu n'as plus qu'à sélectionner le composant bouton et le placer sur la frame.
 
 Nous venons de créer et d'ajouter **une instance** de notre composant `Button`. 🥳
 
-> Instance ? 🤔 Tu as peut-être déjà entendu ce terme. On en parle en développement quand qu'on crée une nouvelle instance d'une classe, d'un objet. Si toutefois c'est encore flou : une instance est un nouvel objet basé sur un modèle. Dans notre cas, on a créé un nouveau bouton sur le composant `Button`.
+> Instance ? 🤔 Tu as peut-être déjà entendu ce terme. On en parle en développement quand qu'on crée une nouvelle instance d'une classe, d'un objet. Si toutefois c'est encore flou : une instance est un nouvel objet basé sur un modèle. Dans notre cas, on a créé une nouvelle instance du composant `Button`.
 
 Il ne manque plus qu'à changer le contenu de notre texte qui n'est pas exact. Dans notre Hero, l'instance de `Button` comporte le texte `Catalogue`. Change le texte de l'instance créée sur ta maquette puis retourne sur la zone de travail `Components` afin de voir si cela a changé le composant.
-
-**Voici notre instance :**
-
-<p align="center">
-    <img src="../assets/09-figma-composants/button-instance.png"/>
-</p>
 
 **Voici notre composant :**
 
@@ -126,9 +120,15 @@ Il ne manque plus qu'à changer le contenu de notre texte qui n'est pas exact. D
     <img src="../assets/09-figma-composants/button-component.png"/>
 </p>
 
-> Si tu fais bien attention, le symbole 'diamant` qui représente notre composant est plein lorsque l'on sélectionne le composant; ce qui n'est pas le cas lorsque l'on sélectionne une instance. 🔍
+**Voici notre instance :**
 
-Et c'est là tout l'intérêt du composant et d'une instance. 🤓
+<p align="center">
+    <img src="../assets/09-figma-composants/button-instance.png"/>
+</p>
+
+> On a fait un petit cercle en rouge afin de t'indiquer le symbole qui te permet de reconnaître un composant (diamant plein) et une instance (diamant vide). 🔍
+
+Pour finir, précisons :
 
 - **Un composant** va définir un design de base que ses instances vont appliquer. Si tu changes la couleur du bouton, toutes les instances vont prendre ce changement en compte.
 - **Une instance** est définie par le composant mais reste un élément que tu peux modifier individuellement, cela n'impactera pas les autres instances ni le composant initial. C'est pour cela que tu as pu changer le texte et personnaliser le bouton à cet endroit.

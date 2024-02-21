@@ -1,6 +1,6 @@
 # Maquette
 
-Il est désormais temps de réaliser cette fameuse maquette dont on t'a parlé au début. Tu as pu voir de nombreux exemples d'usages, parfois en lien avec notre maquette et parfois non, histoire de te laisser réaliser seul ce challenge.
+Il est désormais temps de réaliser cette fameuse maquette dont on t'a parlé au début. Tu as pu voir de nombreux exemples d'usages, parfois en lien avec notre maquette et parfois non, histoire de te laisser réaliser seul ce challenge. 😉😁
 
 N'hésite pas à reprendre les chapitres pour adapter la maquette avec les fonctionnalités montrées.
 
@@ -47,6 +47,18 @@ Une correction de cette maquette est disponible dans le dossier `assets/11-maque
 <p align="center">
     <img src="../assets/11-maquette/import-figma-file.gif"/>
 </p>
+
+## Aller plus loin
+
+Nous espérons que cette découverte de l'outil Figma et du monde du Webdesign t'as plu. 🤗 Figma est un outil vraiment puissant qui contient encore beaucoup de choses qui n'ont pas été abordées.
+
+Si tu souhaites aller plus loin, nous te conseillons de t'intéresser au **prototypage**, une manière de rendre tes maquettes de sites utilisables afin de les montrer à ton client avant développement.
+
+- [Guide de prototypage dans Figma](https://help.figma.com/hc/fr/articles/360040314193-Guide-de-prototypage-dans-Figma)
+
+Tu peux aussi te balader sur la plateforme d'apprentissage [Figma Learn](https://help.figma.com/hc/fr) afin d'en apprendre plus sur cet outil. 👍
+
+Pour finir, nous t'invitons à regarder les [ressources utiles](../ressources.md) afin de te permettre d'avoir des éléments pouvant t'aider à trouver l'inspiration pour tes designs, avoir des éléments à intégrer dans tes maquettes. 😎
 
 ---
 

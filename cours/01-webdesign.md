@@ -14,7 +14,7 @@ Oui, tu es un utilisateur du web, tu navigues aux confins d'Internet pour diffé
 - _Il faut que je retourne mon smartphone pour que la page s'affiche bien_ 😒
 - _J'arrive pas à zoomer pour voir correctement les horaires sur le site de la piscine_ 🔍
 
-> Toutes les personnes ayant témoigné ci-dessous ont préférer garder l'anonymat pour éviter des représailles 🥸.
+> Toutes les personnes ayant témoigné ci-dessus ont préférer garder l'anonymat pour éviter des représailles 🥸.
 
 Bref, tu l'auras compris, un site web se réfléchit de A à Z et doit passer par une phase de conception et de prototypage afin de tester si celui-ci est fonctionnel.👌
 

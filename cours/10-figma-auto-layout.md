@@ -1,6 +1,6 @@
 # Auto layout
 
-Pour finir ce cours, on va finir par apprendre à disposer correctement nos éléments disséminés dans nos maquettes.
+Pour finir ce cours, on va finir par apprendre à disposer correctement les éléments disséminés dans nos maquettes.
 
 On parle d'**auto-layout** pour symboliser **la manière d'automatiser la disposition de nos éléments.** 🧱 L'auto-layout peut être utilisé sur tous les éléments d'une maquette : frames, composants, groupes d'éléments, etc.
 
@@ -40,7 +40,7 @@ Grâce à l'auto-layout, Figma permet de faire ce genre de manipulations. Prenon
 
 > 🤗 Tu peux, si tu le souhaites, créer une nouvelle frame temporairement et créer ces cartes. Il s'agit juste d'un rectangle qui contient un titre et du texte avec une bordure bleue, le tout transformé en un composant. On a ensuite ajouté 5 instances de ce composant.
 
-Nous allons sélectionner ces trois cartes puis ajouter l'auto-layout (`Maj` + `A`). Désormais, notre panneau de gauche voit les trois éléments imbriqués dans une nouvelle 'frame'.
+Nous allons sélectionner ces trois cartes puis ajouter l'auto-layout (`Maj` + `A`). Désormais, notre panneau de gauche voit **les trois éléments imbriqués dans une nouvelle frame**.
 
 <p align="center">
     <img src="../assets/10-figma-auto-layout/frame.png"/>

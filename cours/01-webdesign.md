@@ -70,13 +70,13 @@ Si l'on devait schématiser les rôles, cela donnerait :
 
 - **Le Web designer** va donc prendre en charge les besoins du client pour la convertir en une maquette répondant aux attentes de ce dernier tout en prenant en compte les attentes des utilisateurs.
 
-- **Le développeur** (front-end & back-end) va lui passer du stade de maquette à la concrétisation du projet dans les technologies appropriées.
+- **Le développeur** (front-end & back-end) va quant à lui passer du stade de maquette à la concrétisation du projet dans les technologies appropriées.
 
 Il est donc indispensable que ces trois rôles échangent constamment, le développeur web apportant son expertise technique sur la réalisation et la faisabilité du projet 💪; quant au Web designer, il va être celui qui va essayer de faire tout ce qui est possible pour que le projet soit une réussite en terme visuel et d'utilisation. 👁️
 
 Toutefois, certains développeurs front-end aiment à connaître et utiliser les outils dédiés aux designers pour parfaire leurs connaissances voire les utiliser dans leur métier. Cette transversalité est un réel atout, mais n'est pas la composante essentielle de leur corps de métier. 😉
 
-> En somme, si tu te demanes si tu dois être bon en Webdesign pour être développeur web, pas d'inquiétude, ce n'est pas nécessaire. 😮‍💨
+> En somme, si tu te demandes si tu dois être bon en Webdesign pour être développeur web, pas d'inquiétude, ce n'est pas nécessaire. 😮‍💨
 
 ---
 

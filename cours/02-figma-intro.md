@@ -14,6 +14,8 @@ La première chose qu'il faut faire pour travailler sur Figma est tout simplemen
 
 ## Interface d'accueil
 
+:information_source: Les captures d'écran de cet atelier ont été faites avec le thème sombre. A vous de voir si vous souhaitez utiliser ce thème ou non. Selon la page où vous êtes cette option se trouve, soit au niveau de ton *Nom d'utilisateur > Theme*, soit sur l'*icône Figma > Preferences > Theme*.
+
 À l'arrivée sur l'outil, tu vas être directement au contact de tes fichiers créés (jusqu'ici, il n'y en a aucun, mais ça va venir 😉).
 
 Pour créer un nouveau fichier, il te suffit de cliquer sur le bouton "Design file", de choisir l'équipe dans laquelle sera enregistré ce fichier (Ici, celle avec ton nom => ex : `MyName / Team Project`) et te voilà prêt à attaquer ton projet. 💪

@@ -37,12 +37,12 @@ Organise-toi comme bon te semble, essaie de trouver le moyen d'être le plus eff
 
 ## Correction
 
-Une correction de cette maquette est disponible dans le dossier `assets/11-maquette` nommée : `atelier-figma-correction.md`. Pour pouvoir l'utiliser :
+Une correction de cette maquette est disponible dans le dossier `assets/11-maquette` nommée : `atelier-figma-correction.fig`. Pour pouvoir l'utiliser :
 
 - Clique sur le symbole `Figma` en haut à gauche de l'outil ;
 - Choisis l'option `Back to files` ;
 - Puis clique sur le bouton `Import` en haut à droite de l'écran de fichiers ;
-- Choisis `atelier-figma-correction.md` afin de pouvoir l'utiliser localement.
+- Choisis `atelier-figma-correction.fig` afin de pouvoir l'utiliser localement.
 
 <p align="center">
     <img src="../assets/11-maquette/import-figma-file.gif"/>

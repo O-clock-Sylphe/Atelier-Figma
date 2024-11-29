@@ -132,7 +132,7 @@ Une autre option très importante à maîtriser dans n'importe quel logiciel de 
 
 Jusqu'ici, on a vu que si l'on crée une forme dans notre Frame, celle-ci est automatiquement ajoutée dans l'arborescence que l'on peut consulter sur la colonne de gauche de notre outil. 🪜
 
-Mais il est aussi possible de créer des groupes de formes afin d'indiquer que celles-ci sont parentes ou lier entre elles. Pour créer un groupe, rien de plus simple :
+Mais il est aussi possible de créer des groupes de formes afin d'indiquer que celles-ci sont parentes ou liées entre elles. Pour créer un groupe, rien de plus simple :
 
 - Sélectionne les formes nécessaires dans l'arborescence située dans le panneau de gauche puis fais un clic-droit et sélectionne l'option `Group Selection`
 

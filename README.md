@@ -24,7 +24,7 @@ Pas de panique ! Ici, on parle d'un sujet en mode découverte. 🌈🐻‍❄️
 
 ## Ressources utiles
 
-[Lien vers page 🔗](./ressources.md)
+[Ressources pratiques pour construire le design de ton projet](./ressources.md) :books:
 
 ---
 

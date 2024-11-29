@@ -38,7 +38,7 @@ En vrai, si tu analyses avec attention, **on ne fait que s'inspirer des uns des 
 >
 > On te voit venir avec ta question existentielle ! Hé bien, c'est un débat long mais que l'on va résumer ici :
 >
-> - **S'inspirer** part du principe que tu picores des idées à droite à gauche, que tu allez mixer avec tes propres envies et paramètres que tu souhaites ajouter ou retirer, s'éloignant d'un élément précis. ✅
+> - **S'inspirer** part du principe que tu picores des idées à droite à gauche, que tu vas mixer avec tes propres envies et paramètres que tu souhaites ajouter ou retirer, s'éloignant d'un élément précis. ✅
 > - À l'inverse, **copier** reviendrait à reprendre bêtement un élément et à le transposer sans aucun effort d'adaptation ou très grossier ne masquant pas la supercherie. ❌
 
 **Tu as beaucoup de sites et de ressources existantes pour t'inspirer** et aller secouer l'artiste qui sommeille en toi. Il existe dans ce cours une liste non-exhaustive d'outils et de références qui t'aideront à réaliser des maquettes de sites très sympas. [Va y jeter un oeil](../ressources.md) 👀

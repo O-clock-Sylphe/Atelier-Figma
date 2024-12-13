@@ -20,8 +20,6 @@ Autres outils pêle-mêle : [Wireframe.cc](https://wireframe.cc), [VisualFlows](
 
 - [**Landingfolio**](https://www.landingfolio.com/) : Ce site regroupe plein de pages web (landing pages = page représentant une marque, la page d'accueil). Il y en a énormément et aller faire une veille là-dessus pour trouver une organisation de ses pages peut-être pertinent.
 
-- [**Media Queri.es**](https://mediaqueri.es/) : Ce site répertorie des pages de sites web de différentes natures en proposant un découpage selon si on le perçoit sur mobile, tablettes, laptop et desktop. Très utile pour voir comment peut s'organiser votre contenu. :+1:
-
 Autres sites pêle-mêle : [httpster.net](http://httpster.net), [lapa.ninja](https://www.lapa.ninja), [nicelydone.club](https://nicelydone.club), ...
 
 ---

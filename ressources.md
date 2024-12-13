@@ -74,7 +74,7 @@ En définitive, les couleurs symbolisent un état d'esprit, des émotions. Poses
 
 - [**Adobe Color**](https://color.adobe.com/fr/explore) : Entre un thème et il t'offre une palette de couleurs qui peut coller avec ton sujet. Il propose cinq couleurs complémentaires, tu peux en utiliser 3 ou cinq dessus, selon ton choix. :+1:
 
-- [**Coolors**](Coolors) : Cet outil te permet de créer ta propre palette via un outil de génération. Une couleur en particulier te plait ? Tu la verrouilles et il te donne des couleurs qui se complémentent bien avec. C'est juste trop cool et hyper puissant quand on apprend à l'utiliser.
+- [**Coolors**](https://coolors.co/) : Cet outil te permet de créer ta propre palette via un outil de génération. Une couleur en particulier te plait ? Tu la verrouilles et il te donne des couleurs qui se complémentent bien avec. C'est juste trop cool et hyper puissant quand on apprend à l'utiliser.
 
 ---
 
